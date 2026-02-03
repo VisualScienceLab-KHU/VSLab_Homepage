@@ -1248,7 +1248,7 @@ html{ scrollbar-gutter: stable; }
 .gallery-grid{
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 22px 18px; /* 세로/가로 간격 */
+  gap: 38px 18px; /* 세로/가로 간격 */
 }
 
 .gallery-tile{
@@ -1338,4 +1338,15 @@ html{ scrollbar-gutter: stable; }
 @media (max-width: 620px){
   .gallery-grid{ grid-template-columns: 1fr; }
   .gallery-viewport{ height: 260px; }
+}
+
+/* Gallery page only: 조금 더 넓게 */
+.gallery-page .gallery-wrap{
+  width: min(1320px, calc(100% - 40px));
+  margin: 0 auto;
+}
+
+/* 사진이 조금 더 크게 느껴지도록 뷰포트 높이 살짝 증가(선택) */
+.gallery-viewport{
+  height: 300px;
 }
