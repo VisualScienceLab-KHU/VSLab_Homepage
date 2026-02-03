@@ -18,7 +18,7 @@ permalink: /research/
       <article class="card research-card">
         <a class="research-card__mediaLink" href="{{ '/research/scene-understanding/' | relative_url }}" aria-label="Scene Understanding details">
           <div class="research-card__mediaPlaceholder">IMAGE</div>
-          <!-- 나중에 이미지 넣을 때:
+          <!-- 이미지 넣을 때:
           <img class="research-card__img" src="{{ '/assets/img/research/scene.png' | relative_url }}" alt="Scene Understanding">
           -->
         </a>
@@ -52,7 +52,7 @@ permalink: /research/
           </h2>
 
           <ul class="research-list">
-            <li>3D Object detection</li>
+            <li>3D Object Detection</li>
             <li>LiDAR Depth Completion</li>
             <li>Odometry Estimation</li>
             <li>3D View Reconstruction</li>
@@ -124,7 +124,7 @@ permalink: /research/
         </div>
       </article>
 
-      <!-- General Topics (same size & placement as others) -->
+      <!-- General Topics -->
       <article class="card research-card">
         <a class="research-card__mediaLink" href="{{ '/research/general-topics/' | relative_url }}" aria-label="General Topics details">
           <div class="research-card__mediaPlaceholder">IMAGE</div>
