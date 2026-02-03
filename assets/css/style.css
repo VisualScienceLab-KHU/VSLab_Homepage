@@ -1177,8 +1177,10 @@ html{ scrollbar-gutter: stable; }
   box-shadow: var(--shadow);
   filter: none;
 }
+/* General Topics title: no underline, black */
 .research-heading__link--static{
-  cursor: default;
+  color: var(--text);
+  text-decoration: none;
 }
 
 /* Responsive */
@@ -1194,4 +1196,9 @@ html{ scrollbar-gutter: stable; }
     width: 100%;
     aspect-ratio: 16 / 9;
   }
+}
+
+.research-item{
+  height: 260px;         /* 필요하면 220~260에서 조절 */
+  align-items: start;
 }
