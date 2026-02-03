@@ -1202,3 +1202,36 @@ html{ scrollbar-gutter: stable; }
   height: 260px;         /* 필요하면 220~260에서 조절 */
   align-items: start;
 }
+/* Research topic detail pages: image-only gallery */
+.topic-title{
+  margin: 0;
+  text-align: center;
+  font-size: 44px;
+  font-weight: 800;
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-color: rgba(176,18,23,0.55);
+  text-underline-offset: 4px;
+}
+
+.topic-gallery{
+  margin-top: 18px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
+}
+
+@media (min-width: 980px){
+  .topic-gallery{
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.topic-shot{
+  width: 100%;
+  display: block;
+  border-radius: 16px;
+  border: 1px solid var(--line);
+  background: #fff;
+  box-shadow: var(--shadow);
+}

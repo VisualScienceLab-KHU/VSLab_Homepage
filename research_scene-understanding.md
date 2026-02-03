@@ -4,25 +4,18 @@ title: Scene Understanding
 permalink: /research/scene-understanding/
 ---
 
-<section class="section">
+<section class="section topic-page">
   <div class="wrap">
-    <h1 style="margin:0; text-align:center; font-size:44px; font-weight:800; color: var(--accent);">
-      Scene Understanding
-    </h1>
+    <h1 class="topic-title">Scene Understanding</h1>
 
-    <div class="card" style="margin-top:16px;">
-      <h2 class="h3">Topics</h2>
-      <ul class="research-list" style="max-height:none; overflow:visible;">
-        <li>Object Detection</li>
-        <li>Video Object Segmentation</li>
-        <li>Video Action Recognition</li>
-        <li>Saliency Detection</li>
-        <li>Image Retrieval</li>
-        <li>Anomaly Detection</li>
-      </ul>
-
-      <h2 class="h3" style="margin-top:16px;">Representative Works</h2>
-      <p class="muted">Add papers / projects / code links here.</p>
+    <div class="topic-gallery">
+      <img class="topic-shot" src="{{ '/assets/img/research/scene/1.png' | relative_url }}" alt="Scene figure 1">
+      <img class="topic-shot" src="{{ '/assets/img/research/scene/2.png' | relative_url }}" alt="Scene figure 2">
+      <img class="topic-shot" src="{{ '/assets/img/research/scene/3.png' | relative_url }}" alt="Scene figure 3">
+      <img class="topic-shot" src="{{ '/assets/img/research/scene/4.png' | relative_url }}" alt="Scene figure 4">
+      <img class="topic-shot" src="{{ '/assets/img/research/scene/5.png' | relative_url }}" alt="Scene figure 5">
+      <img class="topic-shot" src="{{ '/assets/img/research/scene/6.png' | relative_url }}" alt="Scene figure 6">
+      <img class="topic-shot" src="{{ '/assets/img/research/scene/7.png' | relative_url }}" alt="Scene figure 7">
     </div>
   </div>
 </section>
