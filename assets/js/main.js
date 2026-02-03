@@ -80,17 +80,30 @@
   setActive(0);
   start();
 })();
-
-// ===== Gallery carousels (multiple) =====
+// ===== Gallery carousels (auto dots + autoplay) =====
 (function () {
   const carousels = Array.from(document.querySelectorAll(".gallery-carousel"));
   if (carousels.length === 0) return;
 
   carousels.forEach((carousel) => {
-    const slides = Array.from(carousel.querySelectorAll(".gallery-carousel__slide"));
-    const prevBtn = carousel.querySelector(".gallery-carousel__btn--prev");
-    const nextBtn = carousel.querySelector(".gallery-carousel__btn--next");
-    const dots = Array.from(carousel.querySelectorAll(".gallery-carousel__dot"));
+    const slides = Array.from(carousel.querySelectorAll(".gallery-slide"));
+    const viewport = carousel.querySelector(".gallery-viewport");
+    const prevBtn = carousel.querySelector(".gallery-btn--prev");
+    const nextBtn = carousel.querySelector(".gallery-btn--next");
+    const dotsWrap = carousel.querySelector(".gallery-dots");
+
+    if (!viewport || slides.length === 0 || !dotsWrap) return;
+
+    // dots 생성
+    dotsWrap.innerHTML = "";
+    const dots = slides.map((_, i) => {
+      const b = document.createElement("button");
+      b.type = "button";
+      b.className = "gallery-dot" + (i === 0 ? " is-active is-active--accent" : "");
+      b.setAttribute("aria-label", `Slide ${i + 1}`);
+      dotsWrap.appendChild(b);
+      return b;
+    });
 
     let index = 0;
     let timer = null;
@@ -100,14 +113,17 @@
     function setActive(i) {
       index = (i + slides.length) % slides.length;
       slides.forEach((s, k) => s.classList.toggle("is-active", k === index));
-      dots.forEach((d, k) => d.classList.toggle("is-active", k === index));
+      dots.forEach((d, k) => {
+        d.classList.toggle("is-active", k === index);
+        d.classList.toggle("is-active--accent", k === index);
+      });
     }
 
     function next(){ setActive(index + 1); }
     function prev(){ setActive(index - 1); }
 
     function start(){
-      if (!autoplay) return;
+      if (!autoplay || slides.length <= 1) return;
       stop();
       timer = window.setInterval(next, interval);
     }
@@ -118,6 +134,15 @@
       }
     }
 
+    // 슬라이드 1장이면 arrows/dots 숨김
+    if (slides.length <= 1) {
+      if (prevBtn) prevBtn.style.display = "none";
+      if (nextBtn) nextBtn.style.display = "none";
+      dotsWrap.style.display = "none";
+      setActive(0);
+      return;
+    }
+
     if (nextBtn) nextBtn.addEventListener("click", () => { next(); start(); });
     if (prevBtn) prevBtn.addEventListener("click", () => { prev(); start(); });
 
@@ -125,11 +150,8 @@
       dot.addEventListener("click", () => { setActive(i); start(); });
     });
 
-    const viewport = carousel.querySelector(".gallery-carousel__viewport");
-    if (viewport) {
-      viewport.addEventListener("mouseenter", stop);
-      viewport.addEventListener("mouseleave", start);
-    }
+    viewport.addEventListener("mouseenter", stop);
+    viewport.addEventListener("mouseleave", start);
 
     setActive(0);
     start();

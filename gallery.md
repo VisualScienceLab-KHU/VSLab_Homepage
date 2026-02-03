@@ -7,106 +7,215 @@ permalink: /gallery/
 <section class="section gallery-page">
   <div class="wrap">
     <h1 class="gallery-title">Gallery</h1>
-    <p class="muted gallery-subtitle">Lab life, events, and moments.</p>
   </div>
 </section>
 
 <section class="section gallery-page">
   <div class="wrap">
 
+    <!-- ===== 2025 ===== -->
+    <h2 class="gallery-year">2025</h2>
     <div class="gallery-grid">
 
-      <!-- Card 1 -->
-      <article class="gallery-card">
-        <div class="gallery-card__head">
-          <div class="gallery-card__title">Lab Events</div>
-          <div class="gallery-card__meta">#seminar #dinner #workshop</div>
-        </div>
-
+      <!-- 2025 summer_workshop (1~3) -->
+      <article class="gallery-tile">
         <div class="gallery-carousel" data-autoplay="true" data-interval="5000">
-          <div class="gallery-carousel__viewport">
-            <div class="gallery-carousel__slide is-active">
-              <img class="gallery-carousel__img" src="{{ '/assets/img/gallery/placeholder-1.jpg' | relative_url }}" alt="Lab Events 1">
+          <div class="gallery-viewport">
+            <div class="gallery-slide is-active">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2025/summer_workshop/1.jpg' | relative_url }}" alt="2025 summer workshop 1">
             </div>
-            <div class="gallery-carousel__slide">
-              <img class="gallery-carousel__img" src="{{ '/assets/img/gallery/placeholder-2.jpg' | relative_url }}" alt="Lab Events 2">
+            <div class="gallery-slide">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2025/summer_workshop/2.jpg' | relative_url }}" alt="2025 summer workshop 2">
             </div>
-            <div class="gallery-carousel__slide">
-              <img class="gallery-carousel__img" src="{{ '/assets/img/gallery/placeholder-3.jpg' | relative_url }}" alt="Lab Events 3">
+            <div class="gallery-slide">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2025/summer_workshop/3.jpg' | relative_url }}" alt="2025 summer workshop 3">
             </div>
 
-            <button class="gallery-carousel__btn gallery-carousel__btn--prev" type="button" aria-label="Previous">‹</button>
-            <button class="gallery-carousel__btn gallery-carousel__btn--next" type="button" aria-label="Next">›</button>
+            <button class="gallery-btn gallery-btn--prev" type="button" aria-label="Previous">‹</button>
+            <button class="gallery-btn gallery-btn--next" type="button" aria-label="Next">›</button>
           </div>
 
-          <div class="gallery-carousel__dots" aria-label="Carousel pagination">
-            <button class="gallery-carousel__dot is-active" type="button" aria-label="Slide 1"></button>
-            <button class="gallery-carousel__dot" type="button" aria-label="Slide 2"></button>
-            <button class="gallery-carousel__dot" type="button" aria-label="Slide 3"></button>
-          </div>
+          <div class="gallery-dots" aria-label="carousel dots"></div>
         </div>
+
+        <div class="gallery-caption">2025 Summer Workshop</div>
       </article>
 
-      <!-- Card 2 -->
-      <article class="gallery-card">
-        <div class="gallery-card__head">
-          <div class="gallery-card__title">Conferences</div>
-          <div class="gallery-card__meta">#CVPR #NeurIPS #AAAI</div>
-        </div>
-
+      <!-- 2025 NeurIPS25 (1~3, 3.JPG) -->
+      <article class="gallery-tile">
         <div class="gallery-carousel" data-autoplay="true" data-interval="5000">
-          <div class="gallery-carousel__viewport">
-            <div class="gallery-carousel__slide is-active">
-              <img class="gallery-carousel__img" src="{{ '/assets/img/gallery/placeholder-4.jpg' | relative_url }}" alt="Conferences 1">
+          <div class="gallery-viewport">
+            <div class="gallery-slide is-active">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2025/NeurIPS25/1.png' | relative_url }}" alt="NeurIPS25 1">
             </div>
-            <div class="gallery-carousel__slide">
-              <img class="gallery-carousel__img" src="{{ '/assets/img/gallery/placeholder-5.jpg' | relative_url }}" alt="Conferences 2">
+            <div class="gallery-slide">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2025/NeurIPS25/2.png' | relative_url }}" alt="NeurIPS25 2">
             </div>
-            <div class="gallery-carousel__slide">
-              <img class="gallery-carousel__img" src="{{ '/assets/img/gallery/placeholder-6.jpg' | relative_url }}" alt="Conferences 3">
+            <div class="gallery-slide">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2025/NeurIPS25/3.JPG' | relative_url }}" alt="NeurIPS25 3">
             </div>
 
-            <button class="gallery-carousel__btn gallery-carousel__btn--prev" type="button" aria-label="Previous">‹</button>
-            <button class="gallery-carousel__btn gallery-carousel__btn--next" type="button" aria-label="Next">›</button>
+            <button class="gallery-btn gallery-btn--prev" type="button" aria-label="Previous">‹</button>
+            <button class="gallery-btn gallery-btn--next" type="button" aria-label="Next">›</button>
           </div>
 
-          <div class="gallery-carousel__dots" aria-label="Carousel pagination">
-            <button class="gallery-carousel__dot is-active" type="button" aria-label="Slide 1"></button>
-            <button class="gallery-carousel__dot" type="button" aria-label="Slide 2"></button>
-            <button class="gallery-carousel__dot" type="button" aria-label="Slide 3"></button>
-          </div>
+          <div class="gallery-dots" aria-label="carousel dots"></div>
         </div>
+
+        <div class="gallery-caption">NeurIPS 2025</div>
       </article>
 
-      <!-- Card 3 -->
-      <article class="gallery-card">
-        <div class="gallery-card__head">
-          <div class="gallery-card__title">Lab Space</div>
-          <div class="gallery-card__meta">#office #equipment #demo</div>
-        </div>
-
+      <!-- 2025 KSC (1~2, PNG) -->
+      <article class="gallery-tile">
         <div class="gallery-carousel" data-autoplay="true" data-interval="5000">
-          <div class="gallery-carousel__viewport">
-            <div class="gallery-carousel__slide is-active">
-              <img class="gallery-carousel__img" src="{{ '/assets/img/gallery/placeholder-7.jpg' | relative_url }}" alt="Lab Space 1">
+          <div class="gallery-viewport">
+            <div class="gallery-slide is-active">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2025/KSC/1.PNG' | relative_url }}" alt="KSC 2025 1">
             </div>
-            <div class="gallery-carousel__slide">
-              <img class="gallery-carousel__img" src="{{ '/assets/img/gallery/placeholder-8.jpg' | relative_url }}" alt="Lab Space 2">
-            </div>
-            <div class="gallery-carousel__slide">
-              <img class="gallery-carousel__img" src="{{ '/assets/img/gallery/placeholder-9.jpg' | relative_url }}" alt="Lab Space 3">
+            <div class="gallery-slide">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2025/KSC/2.PNG' | relative_url }}" alt="KSC 2025 2">
             </div>
 
-            <button class="gallery-carousel__btn gallery-carousel__btn--prev" type="button" aria-label="Previous">‹</button>
-            <button class="gallery-carousel__btn gallery-carousel__btn--next" type="button" aria-label="Next">›</button>
+            <button class="gallery-btn gallery-btn--prev" type="button" aria-label="Previous">‹</button>
+            <button class="gallery-btn gallery-btn--next" type="button" aria-label="Next">›</button>
           </div>
 
-          <div class="gallery-carousel__dots" aria-label="Carousel pagination">
-            <button class="gallery-carousel__dot is-active" type="button" aria-label="Slide 1"></button>
-            <button class="gallery-carousel__dot" type="button" aria-label="Slide 2"></button>
-            <button class="gallery-carousel__dot" type="button" aria-label="Slide 3"></button>
-          </div>
+          <div class="gallery-dots" aria-label="carousel dots"></div>
         </div>
+
+        <div class="gallery-caption">KSC 2025</div>
+      </article>
+
+      <!-- 2025 KCC (1~2) -->
+      <article class="gallery-tile">
+        <div class="gallery-carousel" data-autoplay="true" data-interval="5000">
+          <div class="gallery-viewport">
+            <div class="gallery-slide is-active">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2025/KCC/1.jpg' | relative_url }}" alt="KCC 2025 1">
+            </div>
+            <div class="gallery-slide">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2025/KCC/2.jpg' | relative_url }}" alt="KCC 2025 2">
+            </div>
+
+            <button class="gallery-btn gallery-btn--prev" type="button" aria-label="Previous">‹</button>
+            <button class="gallery-btn gallery-btn--next" type="button" aria-label="Next">›</button>
+          </div>
+
+          <div class="gallery-dots" aria-label="carousel dots"></div>
+        </div>
+
+        <div class="gallery-caption">KCC 2025</div>
+      </article>
+
+      <!-- 2025 winter_workshop (1~2, png) -->
+      <article class="gallery-tile">
+        <div class="gallery-carousel" data-autoplay="true" data-interval="5000">
+          <div class="gallery-viewport">
+            <div class="gallery-slide is-active">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2025/winter_workshop/1.png' | relative_url }}" alt="Winter workshop 1">
+            </div>
+            <div class="gallery-slide">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2025/winter_workshop/2.png' | relative_url }}" alt="Winter workshop 2">
+            </div>
+
+            <button class="gallery-btn gallery-btn--prev" type="button" aria-label="Previous">‹</button>
+            <button class="gallery-btn gallery-btn--next" type="button" aria-label="Next">›</button>
+          </div>
+
+          <div class="gallery-dots" aria-label="carousel dots"></div>
+        </div>
+
+        <div class="gallery-caption">2025 Winter Workshop</div>
+      </article>
+
+      <!-- 2025 dinner (1장) -->
+      <article class="gallery-tile">
+        <div class="gallery-carousel" data-autoplay="false">
+          <div class="gallery-viewport">
+            <div class="gallery-slide is-active">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2025/dinner/1.jpg' | relative_url }}" alt="Dinner 2025">
+            </div>
+
+            <button class="gallery-btn gallery-btn--prev" type="button" aria-label="Previous">‹</button>
+            <button class="gallery-btn gallery-btn--next" type="button" aria-label="Next">›</button>
+          </div>
+
+          <div class="gallery-dots" aria-label="carousel dots"></div>
+        </div>
+
+        <div class="gallery-caption">Dinner</div>
+      </article>
+
+      <!-- 2025 teachers (1장) -->
+      <article class="gallery-tile">
+        <div class="gallery-carousel" data-autoplay="false">
+          <div class="gallery-viewport">
+            <div class="gallery-slide is-active">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2025/teachers/1.jpg' | relative_url }}" alt="Teachers day 2025">
+            </div>
+
+            <button class="gallery-btn gallery-btn--prev" type="button" aria-label="Previous">‹</button>
+            <button class="gallery-btn gallery-btn--next" type="button" aria-label="Next">›</button>
+          </div>
+
+          <div class="gallery-dots" aria-label="carousel dots"></div>
+        </div>
+
+        <div class="gallery-caption">Teachers</div>
+      </article>
+
+    </div>
+
+    <!-- ===== 2024 ===== -->
+    <h2 class="gallery-year" style="margin-top: 28px;">2024</h2>
+    <div class="gallery-grid">
+
+      <!-- 아래 2024 폴더들은 이미지 개수가 스샷에 안 보여서 1장 예시로 작성.
+           폴더 안 이미지 개수에 맞게 slide를 늘려주세요. -->
+
+      <article class="gallery-tile">
+        <div class="gallery-carousel" data-autoplay="true" data-interval="5000">
+          <div class="gallery-viewport">
+            <div class="gallery-slide is-active">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2024/Neurips24/1.jpg' | relative_url }}" alt="NeurIPS24 1">
+            </div>
+
+            <button class="gallery-btn gallery-btn--prev" type="button" aria-label="Previous">‹</button>
+            <button class="gallery-btn gallery-btn--next" type="button" aria-label="Next">›</button>
+          </div>
+          <div class="gallery-dots" aria-label="carousel dots"></div>
+        </div>
+        <div class="gallery-caption">NeurIPS 2024</div>
+      </article>
+
+      <article class="gallery-tile">
+        <div class="gallery-carousel" data-autoplay="true" data-interval="5000">
+          <div class="gallery-viewport">
+            <div class="gallery-slide is-active">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2024/KSC/1.jpg' | relative_url }}" alt="KSC 2024 1">
+            </div>
+
+            <button class="gallery-btn gallery-btn--prev" type="button" aria-label="Previous">‹</button>
+            <button class="gallery-btn gallery-btn--next" type="button" aria-label="Next">›</button>
+          </div>
+          <div class="gallery-dots" aria-label="carousel dots"></div>
+        </div>
+        <div class="gallery-caption">KSC 2024</div>
+      </article>
+
+      <article class="gallery-tile">
+        <div class="gallery-carousel" data-autoplay="true" data-interval="5000">
+          <div class="gallery-viewport">
+            <div class="gallery-slide is-active">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2024/seminar/1.jpg' | relative_url }}" alt="Seminar 2024 1">
+            </div>
+
+            <button class="gallery-btn gallery-btn--prev" type="button" aria-label="Previous">‹</button>
+            <button class="gallery-btn gallery-btn--next" type="button" aria-label="Next">›</button>
+          </div>
+          <div class="gallery-dots" aria-label="carousel dots"></div>
+        </div>
+        <div class="gallery-caption">Seminar</div>
       </article>
 
     </div>
