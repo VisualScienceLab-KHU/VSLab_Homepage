@@ -51,7 +51,7 @@ permalink: /research/
            href="{{ '/research/3d-vision/' | relative_url }}"
            aria-label="3D Vision details">
           <div class="research-media__placeholder">IMAGE</div>
-          <!-- <img class="research-media__img" src="{{ '/assets/img/research/3d.png' | relative_url }}" alt="3D Vision"> -->
+          <!-- <img class="research-media__img" src="{{ '/assets/img/research/icon/3d.png' | relative_url }}" alt="3D Vision"> -->
         </a>
 
         <div class="research-body">
@@ -79,7 +79,7 @@ permalink: /research/
            href="{{ '/research/multi-modality/' | relative_url }}"
            aria-label="Multi-Modality details">
           <div class="research-media__placeholder">IMAGE</div>
-          <!-- <img class="research-media__img" src="{{ '/assets/img/research/multimodal.png' | relative_url }}" alt="Multi-Modality"> -->
+          <!-- <img class="research-media__img" src="{{ '/assets/img/research/icon/multi.png' | relative_url }}" alt="Multi-Modality"> -->
         </a>
 
         <div class="research-body">
@@ -105,7 +105,7 @@ permalink: /research/
            href="{{ '/research/applied-ml/' | relative_url }}"
            aria-label="Applied Machine Learning details">
           <div class="research-media__placeholder">IMAGE</div>
-          <!-- <img class="research-media__img" src="{{ '/assets/img/research/applied.png' | relative_url }}" alt="Applied Machine Learning"> -->
+          <!-- <img class="research-media__img" src="{{ '/assets/img/research/icon/applied.png' | relative_url }}" alt="Applied Machine Learning"> -->
         </a>
 
         <div class="research-body">
@@ -130,7 +130,7 @@ permalink: /research/
            href="{{ '/research/human-analysis/' | relative_url }}"
            aria-label="Human Analysis details">
           <div class="research-media__placeholder">IMAGE</div>
-          <!-- <img class="research-media__img" src="{{ '/assets/img/research/human.png' | relative_url }}" alt="Human Analysis"> -->
+          <!-- <img class="research-media__img" src="{{ '/assets/img/research/icon/human.png' | relative_url }}" alt="Human Analysis"> -->
         </a>
 
         <div class="research-body">
@@ -154,7 +154,7 @@ permalink: /research/
       <article class="research-item research-item--static">
         <div class="research-media research-media--static" aria-label="General Topics">
           <div class="research-media__placeholder">IMAGE</div>
-          <!-- <img class="research-media__img" src="{{ '/assets/img/research/general.png' | relative_url }}" alt="General Topics"> -->
+          <!-- <img class="research-media__img" src="{{ '/assets/img/research/icon/general.png' | relative_url }}" alt="General Topics"> -->
         </div>
 
         <div class="research-body">
