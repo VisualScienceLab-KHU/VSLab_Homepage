@@ -21,7 +21,7 @@ permalink: /research/
            href="{{ '/research/scene-understanding/' | relative_url }}"
            aria-label="Scene Understanding details">
           <div class="research-media__placeholder">
-            <img class="research-media__img" src="{{ '/assets/img/research/scene.png' | relative_url }}" alt="Scene Understanding">
+            <img class="research-media__img" src="{{ '/assets/img/research/icon/scene.png' | relative_url }}" alt="Scene Understanding">
           </div>
         </a>
 

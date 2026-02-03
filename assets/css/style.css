@@ -1221,12 +1221,6 @@ html{ scrollbar-gutter: stable; }
   gap: 14px;
 }
 
-@media (min-width: 980px){
-  .topic-gallery{
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-}
-
 .topic-shot{
   width: 100%;
   display: block;
