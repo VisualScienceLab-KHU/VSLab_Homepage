@@ -12,23 +12,24 @@ permalink: /research/
 
 <section class="section research-page">
   <div class="wrap">
-    <div class="research-grid">
+
+    <div class="research-listing">
 
       <!-- Scene Understanding -->
-      <article class="card research-card">
-        <a class="research-card__mediaLink" href="{{ '/research/scene-understanding/' | relative_url }}" aria-label="Scene Understanding details">
-          <div class="research-card__mediaPlaceholder">IMAGE</div>
+      <article class="research-item">
+        <a class="research-media" href="{{ '/research/scene-understanding/' | relative_url }}" aria-label="Scene Understanding details">
+          <div class="research-media__placeholder">IMAGE</div>
           <!-- 이미지 넣을 때:
-          <img class="research-card__img" src="{{ '/assets/img/research/scene.png' | relative_url }}" alt="Scene Understanding">
+          <img class="research-media__img" src="{{ '/assets/img/research/scene.png' | relative_url }}" alt="Scene Understanding">
           -->
         </a>
 
-        <div class="research-card__body">
-          <h2 class="research-card__title">
-            <a class="research-card__titleLink" href="{{ '/research/scene-understanding/' | relative_url }}">Scene Understanding</a>
+        <div class="research-body">
+          <h2 class="research-heading">
+            <a class="research-heading__link" href="{{ '/research/scene-understanding/' | relative_url }}">Scene Understanding</a>
           </h2>
 
-          <ul class="research-list">
+          <ul class="research-bullets">
             <li>Object Detection</li>
             <li>Video Object Segmentation</li>
             <li>Video Action Recognition</li>
@@ -40,18 +41,18 @@ permalink: /research/
       </article>
 
       <!-- 3D Vision -->
-      <article class="card research-card">
-        <a class="research-card__mediaLink" href="{{ '/research/3d-vision/' | relative_url }}" aria-label="3D Vision details">
-          <div class="research-card__mediaPlaceholder">IMAGE</div>
-          <!-- <img class="research-card__img" src="{{ '/assets/img/research/3d.png' | relative_url }}" alt="3D Vision"> -->
+      <article class="research-item">
+        <a class="research-media" href="{{ '/research/3d-vision/' | relative_url }}" aria-label="3D Vision details">
+          <div class="research-media__placeholder">IMAGE</div>
+          <!-- <img class="research-media__img" src="{{ '/assets/img/research/3d.png' | relative_url }}" alt="3D Vision"> -->
         </a>
 
-        <div class="research-card__body">
-          <h2 class="research-card__title">
-            <a class="research-card__titleLink" href="{{ '/research/3d-vision/' | relative_url }}">3D Vision</a>
+        <div class="research-body">
+          <h2 class="research-heading">
+            <a class="research-heading__link" href="{{ '/research/3d-vision/' | relative_url }}">3D Vision</a>
           </h2>
 
-          <ul class="research-list">
+          <ul class="research-bullets">
             <li>3D Object Detection</li>
             <li>LiDAR Depth Completion</li>
             <li>Odometry Estimation</li>
@@ -63,18 +64,18 @@ permalink: /research/
       </article>
 
       <!-- Multi-Modality -->
-      <article class="card research-card">
-        <a class="research-card__mediaLink" href="{{ '/research/multi-modality/' | relative_url }}" aria-label="Multi-Modality details">
-          <div class="research-card__mediaPlaceholder">IMAGE</div>
-          <!-- <img class="research-card__img" src="{{ '/assets/img/research/multimodal.png' | relative_url }}" alt="Multi-Modality"> -->
+      <article class="research-item">
+        <a class="research-media" href="{{ '/research/multi-modality/' | relative_url }}" aria-label="Multi-Modality details">
+          <div class="research-media__placeholder">IMAGE</div>
+          <!-- <img class="research-media__img" src="{{ '/assets/img/research/multimodal.png' | relative_url }}" alt="Multi-Modality"> -->
         </a>
 
-        <div class="research-card__body">
-          <h2 class="research-card__title">
-            <a class="research-card__titleLink" href="{{ '/research/multi-modality/' | relative_url }}">Multi-Modality</a>
+        <div class="research-body">
+          <h2 class="research-heading">
+            <a class="research-heading__link" href="{{ '/research/multi-modality/' | relative_url }}">Multi-Modality</a>
           </h2>
 
-          <ul class="research-list">
+          <ul class="research-bullets">
             <li>Text-to-Motion Generation</li>
             <li>Sound Source Localization</li>
             <li>Explainable Video Anomaly Detection</li>
@@ -84,18 +85,18 @@ permalink: /research/
       </article>
 
       <!-- Applied Machine Learning -->
-      <article class="card research-card">
-        <a class="research-card__mediaLink" href="{{ '/research/applied-ml/' | relative_url }}" aria-label="Applied Machine Learning details">
-          <div class="research-card__mediaPlaceholder">IMAGE</div>
-          <!-- <img class="research-card__img" src="{{ '/assets/img/research/applied.png' | relative_url }}" alt="Applied Machine Learning"> -->
+      <article class="research-item">
+        <a class="research-media" href="{{ '/research/applied-ml/' | relative_url }}" aria-label="Applied Machine Learning details">
+          <div class="research-media__placeholder">IMAGE</div>
+          <!-- <img class="research-media__img" src="{{ '/assets/img/research/applied.png' | relative_url }}" alt="Applied Machine Learning"> -->
         </a>
 
-        <div class="research-card__body">
-          <h2 class="research-card__title">
-            <a class="research-card__titleLink" href="{{ '/research/applied-ml/' | relative_url }}">Applied Machine Learning</a>
+        <div class="research-body">
+          <h2 class="research-heading">
+            <a class="research-heading__link" href="{{ '/research/applied-ml/' | relative_url }}">Applied Machine Learning</a>
           </h2>
 
-          <ul class="research-list">
+          <ul class="research-bullets">
             <li>Visual Surveillance System</li>
             <li>Autonomous Driving</li>
             <li>Robot Vision</li>
@@ -104,18 +105,18 @@ permalink: /research/
       </article>
 
       <!-- Human Analysis -->
-      <article class="card research-card">
-        <a class="research-card__mediaLink" href="{{ '/research/human-analysis/' | relative_url }}" aria-label="Human Analysis details">
-          <div class="research-card__mediaPlaceholder">IMAGE</div>
-          <!-- <img class="research-card__img" src="{{ '/assets/img/research/human.png' | relative_url }}" alt="Human Analysis"> -->
+      <article class="research-item">
+        <a class="research-media" href="{{ '/research/human-analysis/' | relative_url }}" aria-label="Human Analysis details">
+          <div class="research-media__placeholder">IMAGE</div>
+          <!-- <img class="research-media__img" src="{{ '/assets/img/research/human.png' | relative_url }}" alt="Human Analysis"> -->
         </a>
 
-        <div class="research-card__body">
-          <h2 class="research-card__title">
-            <a class="research-card__titleLink" href="{{ '/research/human-analysis/' | relative_url }}">Human Analysis</a>
+        <div class="research-body">
+          <h2 class="research-heading">
+            <a class="research-heading__link" href="{{ '/research/human-analysis/' | relative_url }}">Human Analysis</a>
           </h2>
 
-          <ul class="research-list">
+          <ul class="research-bullets">
             <li>Human Pose Estimation</li>
             <li>Heterogeneous Face Recognition</li>
             <li>Facial Landmark Detection</li>
@@ -125,18 +126,18 @@ permalink: /research/
       </article>
 
       <!-- General Topics -->
-      <article class="card research-card">
-        <a class="research-card__mediaLink" href="{{ '/research/general-topics/' | relative_url }}" aria-label="General Topics details">
-          <div class="research-card__mediaPlaceholder">IMAGE</div>
-          <!-- <img class="research-card__img" src="{{ '/assets/img/research/general.png' | relative_url }}" alt="General Topics"> -->
+      <article class="research-item">
+        <a class="research-media" href="{{ '/research/general-topics/' | relative_url }}" aria-label="General Topics details">
+          <div class="research-media__placeholder">IMAGE</div>
+          <!-- <img class="research-media__img" src="{{ '/assets/img/research/general.png' | relative_url }}" alt="General Topics"> -->
         </a>
 
-        <div class="research-card__body">
-          <h2 class="research-card__title">
-            <a class="research-card__titleLink" href="{{ '/research/general-topics/' | relative_url }}">General Topics</a>
+        <div class="research-body">
+          <h2 class="research-heading">
+            <a class="research-heading__link" href="{{ '/research/general-topics/' | relative_url }}">General Topics</a>
           </h2>
 
-          <ul class="research-list">
+          <ul class="research-bullets">
             <li>Multimodal Learning (Vision, Language, Audio, etc.)</li>
             <li>Domain Adaptation / Generalization</li>
             <li>Metric Learning</li>
@@ -146,5 +147,6 @@ permalink: /research/
       </article>
 
     </div>
+
   </div>
 </section>
