@@ -20,10 +20,9 @@ permalink: /research/
         <a class="research-media"
            href="{{ '/research/scene-understanding/' | relative_url }}"
            aria-label="Scene Understanding details">
-          <div class="research-media__placeholder">IMAGE</div>
-          <!-- 이미지 넣을 때:
-          <img class="research-media__img" src="{{ '/assets/img/research/scene.png' | relative_url }}" alt="Scene Understanding">
-          -->
+          <div class="research-media__placeholder">
+            <img class="research-media__img" src="{{ '/assets/img/research/scene.png' | relative_url }}" alt="Scene Understanding">
+          </div>
         </a>
 
         <div class="research-body">
@@ -50,8 +49,9 @@ permalink: /research/
         <a class="research-media"
            href="{{ '/research/3d-vision/' | relative_url }}"
            aria-label="3D Vision details">
-          <div class="research-media__placeholder">IMAGE</div>
-          <!-- <img class="research-media__img" src="{{ '/assets/img/research/icon/3d.png' | relative_url }}" alt="3D Vision"> -->
+          <div class="research-media__placeholder">
+            <img class="research-media__img" src="{{ '/assets/img/research/icon/3d.png' | relative_url }}" alt="3D Vision">
+          </div>
         </a>
 
         <div class="research-body">
@@ -78,8 +78,9 @@ permalink: /research/
         <a class="research-media"
            href="{{ '/research/multi-modality/' | relative_url }}"
            aria-label="Multi-Modality details">
-          <div class="research-media__placeholder">IMAGE</div>
-          <!-- <img class="research-media__img" src="{{ '/assets/img/research/icon/multi.png' | relative_url }}" alt="Multi-Modality"> -->
+          <div class="research-media__placeholder">
+            <img class="research-media__img" src="{{ '/assets/img/research/icon/multi.png' | relative_url }}" alt="Multi-Modality">
+          </div>
         </a>
 
         <div class="research-body">
@@ -104,8 +105,9 @@ permalink: /research/
         <a class="research-media"
            href="{{ '/research/applied-ml/' | relative_url }}"
            aria-label="Applied Machine Learning details">
-          <div class="research-media__placeholder">IMAGE</div>
-          <!-- <img class="research-media__img" src="{{ '/assets/img/research/icon/applied.png' | relative_url }}" alt="Applied Machine Learning"> -->
+          <div class="research-media__placeholder">
+            <img class="research-media__img" src="{{ '/assets/img/research/icon/applied.png' | relative_url }}" alt="Applied Machine Learning">
+          </div>
         </a>
 
         <div class="research-body">
@@ -129,8 +131,9 @@ permalink: /research/
         <a class="research-media"
            href="{{ '/research/human-analysis/' | relative_url }}"
            aria-label="Human Analysis details">
-          <div class="research-media__placeholder">IMAGE</div>
-          <!-- <img class="research-media__img" src="{{ '/assets/img/research/icon/human.png' | relative_url }}" alt="Human Analysis"> -->
+          <div class="research-media__placeholder">
+            <img class="research-media__img" src="{{ '/assets/img/research/icon/human.png' | relative_url }}" alt="Human Analysis">
+          </div>
         </a>
 
         <div class="research-body">
@@ -153,8 +156,9 @@ permalink: /research/
       <!-- General Topics (NO link, NO hover reaction) -->
       <article class="research-item research-item--static">
         <div class="research-media research-media--static" aria-label="General Topics">
-          <div class="research-media__placeholder">IMAGE</div>
-          <!-- <img class="research-media__img" src="{{ '/assets/img/research/icon/general.png' | relative_url }}" alt="General Topics"> -->
+          <div class="research-media__placeholder">
+            <img class="research-media__img" src="{{ '/assets/img/research/icon/general.png' | relative_url }}" alt="General Topics"> 
+          </div>
         </div>
 
         <div class="research-body">
