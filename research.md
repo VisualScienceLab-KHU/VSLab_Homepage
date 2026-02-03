@@ -13,11 +13,13 @@ permalink: /research/
 <section class="section research-page">
   <div class="wrap">
 
-    <div class="research-listing">
+    <div class="research-grid">
 
       <!-- Scene Understanding -->
       <article class="research-item">
-        <a class="research-media" href="{{ '/research/scene-understanding/' | relative_url }}" aria-label="Scene Understanding details">
+        <a class="research-media"
+           href="{{ '/research/scene-understanding/' | relative_url }}"
+           aria-label="Scene Understanding details">
           <div class="research-media__placeholder">IMAGE</div>
           <!-- 이미지 넣을 때:
           <img class="research-media__img" src="{{ '/assets/img/research/scene.png' | relative_url }}" alt="Scene Understanding">
@@ -26,7 +28,10 @@ permalink: /research/
 
         <div class="research-body">
           <h2 class="research-heading">
-            <a class="research-heading__link" href="{{ '/research/scene-understanding/' | relative_url }}">Scene Understanding</a>
+            <a class="research-heading__link"
+               href="{{ '/research/scene-understanding/' | relative_url }}">
+              Scene Understanding
+            </a>
           </h2>
 
           <ul class="research-bullets">
@@ -42,14 +47,19 @@ permalink: /research/
 
       <!-- 3D Vision -->
       <article class="research-item">
-        <a class="research-media" href="{{ '/research/3d-vision/' | relative_url }}" aria-label="3D Vision details">
+        <a class="research-media"
+           href="{{ '/research/3d-vision/' | relative_url }}"
+           aria-label="3D Vision details">
           <div class="research-media__placeholder">IMAGE</div>
           <!-- <img class="research-media__img" src="{{ '/assets/img/research/3d.png' | relative_url }}" alt="3D Vision"> -->
         </a>
 
         <div class="research-body">
           <h2 class="research-heading">
-            <a class="research-heading__link" href="{{ '/research/3d-vision/' | relative_url }}">3D Vision</a>
+            <a class="research-heading__link"
+               href="{{ '/research/3d-vision/' | relative_url }}">
+              3D Vision
+            </a>
           </h2>
 
           <ul class="research-bullets">
@@ -65,14 +75,19 @@ permalink: /research/
 
       <!-- Multi-Modality -->
       <article class="research-item">
-        <a class="research-media" href="{{ '/research/multi-modality/' | relative_url }}" aria-label="Multi-Modality details">
+        <a class="research-media"
+           href="{{ '/research/multi-modality/' | relative_url }}"
+           aria-label="Multi-Modality details">
           <div class="research-media__placeholder">IMAGE</div>
           <!-- <img class="research-media__img" src="{{ '/assets/img/research/multimodal.png' | relative_url }}" alt="Multi-Modality"> -->
         </a>
 
         <div class="research-body">
           <h2 class="research-heading">
-            <a class="research-heading__link" href="{{ '/research/multi-modality/' | relative_url }}">Multi-Modality</a>
+            <a class="research-heading__link"
+               href="{{ '/research/multi-modality/' | relative_url }}">
+              Multi-Modality
+            </a>
           </h2>
 
           <ul class="research-bullets">
@@ -86,14 +101,19 @@ permalink: /research/
 
       <!-- Applied Machine Learning -->
       <article class="research-item">
-        <a class="research-media" href="{{ '/research/applied-ml/' | relative_url }}" aria-label="Applied Machine Learning details">
+        <a class="research-media"
+           href="{{ '/research/applied-ml/' | relative_url }}"
+           aria-label="Applied Machine Learning details">
           <div class="research-media__placeholder">IMAGE</div>
           <!-- <img class="research-media__img" src="{{ '/assets/img/research/applied.png' | relative_url }}" alt="Applied Machine Learning"> -->
         </a>
 
         <div class="research-body">
           <h2 class="research-heading">
-            <a class="research-heading__link" href="{{ '/research/applied-ml/' | relative_url }}">Applied Machine Learning</a>
+            <a class="research-heading__link"
+               href="{{ '/research/applied-ml/' | relative_url }}">
+              Applied Machine Learning
+            </a>
           </h2>
 
           <ul class="research-bullets">
@@ -106,14 +126,19 @@ permalink: /research/
 
       <!-- Human Analysis -->
       <article class="research-item">
-        <a class="research-media" href="{{ '/research/human-analysis/' | relative_url }}" aria-label="Human Analysis details">
+        <a class="research-media"
+           href="{{ '/research/human-analysis/' | relative_url }}"
+           aria-label="Human Analysis details">
           <div class="research-media__placeholder">IMAGE</div>
           <!-- <img class="research-media__img" src="{{ '/assets/img/research/human.png' | relative_url }}" alt="Human Analysis"> -->
         </a>
 
         <div class="research-body">
           <h2 class="research-heading">
-            <a class="research-heading__link" href="{{ '/research/human-analysis/' | relative_url }}">Human Analysis</a>
+            <a class="research-heading__link"
+               href="{{ '/research/human-analysis/' | relative_url }}">
+              Human Analysis
+            </a>
           </h2>
 
           <ul class="research-bullets">
@@ -125,16 +150,16 @@ permalink: /research/
         </div>
       </article>
 
-      <!-- General Topics -->
-      <article class="research-item">
-        <a class="research-media" href="{{ '/research/general-topics/' | relative_url }}" aria-label="General Topics details">
+      <!-- General Topics (NO link, NO hover reaction) -->
+      <article class="research-item research-item--static">
+        <div class="research-media research-media--static" aria-label="General Topics">
           <div class="research-media__placeholder">IMAGE</div>
           <!-- <img class="research-media__img" src="{{ '/assets/img/research/general.png' | relative_url }}" alt="General Topics"> -->
-        </a>
+        </div>
 
         <div class="research-body">
           <h2 class="research-heading">
-            <a class="research-heading__link" href="{{ '/research/general-topics/' | relative_url }}">General Topics</a>
+            <span class="research-heading__link research-heading__link--static">General Topics</span>
           </h2>
 
           <ul class="research-bullets">
