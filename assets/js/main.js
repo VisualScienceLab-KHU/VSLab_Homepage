@@ -80,12 +80,16 @@
   setActive(0);
   start();
 })();
-// ===== Gallery carousels (auto dots + autoplay) =====
+// ===== Gallery carousels (manual only, auto dots, init guard, preload) =====
 (function () {
   const carousels = Array.from(document.querySelectorAll(".gallery-carousel"));
   if (carousels.length === 0) return;
 
   carousels.forEach((carousel) => {
+    // ✅ init guard: 같은 캐러셀이 두 번 초기화되는 것을 방지
+    if (carousel.dataset.inited === "1") return;
+    carousel.dataset.inited = "1";
+
     const slides = Array.from(carousel.querySelectorAll(".gallery-slide"));
     const viewport = carousel.querySelector(".gallery-viewport");
     const prevBtn = carousel.querySelector(".gallery-btn--prev");
@@ -93,6 +97,17 @@
     const dotsWrap = carousel.querySelector(".gallery-dots");
 
     if (!viewport || slides.length === 0 || !dotsWrap) return;
+
+    // ✅ preload + decode (이미지 깜빡임/깨짐 완화)
+    const imgs = Array.from(carousel.querySelectorAll("img.gallery-img"));
+    imgs.forEach((img) => {
+      img.loading = "eager";
+      img.decoding = "async";
+      // decode는 지원 브라우저에서만
+      if (typeof img.decode === "function") {
+        img.decode().catch(() => {});
+      }
+    });
 
     // dots 생성
     dotsWrap.innerHTML = "";
@@ -106,9 +121,6 @@
     });
 
     let index = 0;
-    let timer = null;
-    const autoplay = carousel.dataset.autoplay === "true";
-    const interval = Number(carousel.dataset.interval || 5000);
 
     function setActive(i) {
       index = (i + slides.length) % slides.length;
@@ -122,18 +134,6 @@
     function next(){ setActive(index + 1); }
     function prev(){ setActive(index - 1); }
 
-    function start(){
-      if (!autoplay || slides.length <= 1) return;
-      stop();
-      timer = window.setInterval(next, interval);
-    }
-    function stop(){
-      if (timer) {
-        window.clearInterval(timer);
-        timer = null;
-      }
-    }
-
     // 슬라이드 1장이면 arrows/dots 숨김
     if (slides.length <= 1) {
       if (prevBtn) prevBtn.style.display = "none";
@@ -143,18 +143,14 @@
       return;
     }
 
-    if (nextBtn) nextBtn.addEventListener("click", () => { next(); start(); });
-    if (prevBtn) prevBtn.addEventListener("click", () => { prev(); start(); });
+    if (nextBtn) nextBtn.addEventListener("click", next);
+    if (prevBtn) prevBtn.addEventListener("click", prev);
 
     dots.forEach((dot, i) => {
-      dot.addEventListener("click", () => { setActive(i); start(); });
+      dot.addEventListener("click", () => setActive(i));
     });
 
-    viewport.addEventListener("mouseenter", stop);
-    viewport.addEventListener("mouseleave", start);
-
     setActive(0);
-    start();
   });
 })();
 

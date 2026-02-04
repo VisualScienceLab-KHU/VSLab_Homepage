@@ -178,7 +178,7 @@ permalink: /
         <div class="news-body">
           <div class="news-date">August 2025</div>
           <div class="news-text">
-            Our paper "Distance-based Bi-directional Edge Update Graph Neural Network for 3D Scene Graph Generation" has won the Excellence Award at the Junior Paper Competition from KCC2025.
+            Our paper "Distance-based Bi-directional Edge Update Graph Neural Network for 3D Scene Graph Generation" has won the Excellence Award at the Junior Paper Competition from KCC 2025.
           </div>
         </div>
       </article>

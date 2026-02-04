@@ -1350,3 +1350,17 @@ html{ scrollbar-gutter: stable; }
 .gallery-viewport{
   height: 300px;
 }
+
+/* Gallery rendering stability helpers */
+.gallery-viewport{
+  transform: translateZ(0);
+}
+
+.gallery-slide{
+  will-change: opacity;
+}
+
+.gallery-img{
+  backface-visibility: hidden;
+  transform: translateZ(0);
+}
