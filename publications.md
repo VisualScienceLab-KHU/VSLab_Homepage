@@ -163,25 +163,25 @@ permalink: /publications/
       <article class="pub-item">
         <div class="pub-item__title">Adaptive Grid Selection Training Strategy for Tiny Object Detection</div>
         <div class="pub-item__authors">Sunhyuk Yim, MyeongAh Cho, Dongwoo Kang, Sangyoun Lee</div>
-        <div class="pub-item__venue">IEEE Access, Oct. 2025 (JCR Top 35.2%)</div>
+        <div class="pub-item__venue">IEEE Access, Oct. 2025 <u>(JCR Top 35.2%)</u></div>
       </article>
 
       <article class="pub-item">
         <div class="pub-item__title">Feature-Level Augmentation Vision Transformer for Video-based Person Re-Identification</div>
         <div class="pub-item__authors">Minjung Kim, MyeongAh Cho, Heansung Lee, Sangyoun Lee</div>
-        <div class="pub-item__venue">ELSEVIER Pattern Recognition (PR), May 2025 (JCR Top 8.8%)</div>
+        <div class="pub-item__venue">ELSEVIER Pattern Recognition (PR), May 2025 <u>(JCR Top 8.8%)</u></div>
       </article>
 
       <article class="pub-item">
         <div class="pub-item__title">Treating Motion as Option with Output Selection for Unsupervised Video Object Segmentation</div>
         <div class="pub-item__authors">Suhwan Cho, Minhyeok Lee, Jungho Lee, MyeongAh Cho, Seungwook Park, Jaeyeob Kim, Hyunsung Jang, Sangyoun Lee</div>
-        <div class="pub-item__venue">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Apr. 2025 (JCR Top 3.7%)</div>
+        <div class="pub-item__venue">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Apr. 2025 <u>(JCR Top 3.7%)</u></div>
       </article>
 
       <article class="pub-item">
         <div class="pub-item__title">Fast Video Anomaly Detection via Context-Aware Shortcut Exploration and Abnormal Feature Distance Learning</div>
         <div class="pub-item__authors">Chaewon Park, Donghyeong Kim, MyeongAh Cho, Minjung Kim, Minseok Lee, Sangyoun Lee</div>
-        <div class="pub-item__venue">ELSEVIER Pattern Recognition (PR), Jan. 2025 (JCR Top 8.8%)</div>
+        <div class="pub-item__venue">ELSEVIER Pattern Recognition (PR), Jan. 2025 <u>(JCR Top 8.8%)</u></div>
       </article>
     </div>
 
@@ -238,13 +238,13 @@ permalink: /publications/
       <article class="pub-item">
         <div class="pub-item__title">Frame-to-frame Visual Odometry Estimation Network with Error Relaxation Method</div>
         <div class="pub-item__authors">Sangwon Hwang, MyeongAh Cho, Yuseok Ban, Kyungjae Lee</div>
-        <div class="pub-item__venue">IEEE Access, Oct. 2022 (JCR Top 37.86%)</div>
+        <div class="pub-item__venue">IEEE Access, Oct. 2022 <u>(JCR Top 37.86%)</u></div>
       </article>
 
       <article class="pub-item">
         <div class="pub-item__title">SSAT: Self-Supervised Associating Network for Multi-Object Tracking</div>
         <div class="pub-item__authors">Tae-young Chung, MyeongAh Cho, Heansung Lee, Sangyoun Lee</div>
-        <div class="pub-item__venue">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Jun. 2022 (JCR Top 17.21%)</div>
+        <div class="pub-item__venue">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Jun. 2022 <u>(JCR Top 17.21%)</u></div>
       </article>
 
       <article class="pub-item">
@@ -256,7 +256,7 @@ permalink: /publications/
       <article class="pub-item">
         <div class="pub-item__title">Unsupervised Video Anomaly Detection via Normalizing Flows with Implicit Latent Features</div>
         <div class="pub-item__authors">MyeongAh Cho, Taeoh Kim, Woo Jin Kim, Suhwan Cho, Sangyoun Lee</div>
-        <div class="pub-item__venue">ELSEVIER Pattern Recognition (PR), Apr. 2022 (JCR Top 8.51%)</div>
+        <div class="pub-item__venue">ELSEVIER Pattern Recognition (PR), Apr. 2022 <u>(JCR Top 8.51%)</u></div>
       </article>
 
       <article class="pub-item">
@@ -280,7 +280,7 @@ permalink: /publications/
       <article class="pub-item">
         <div class="pub-item__title">Relational Deep Feature Learning for Heterogeneous Face Recognition</div>
         <div class="pub-item__authors">MyeongAh Cho, Taeoh Kim, Ig-Jae Kim, Kyungjae Lee, and Sangyoun Lee</div>
-        <div class="pub-item__venue">IEEE Transactions on Information Forensics and Security (TIFS), Jul. 2020 (JCR Top 7.87%)</div>
+        <div class="pub-item__venue">IEEE Transactions on Information Forensics and Security (TIFS), Jul. 2020 <u>(JCR Top 7.87%)</u></div>
       </article>
 
       <article class="pub-item">

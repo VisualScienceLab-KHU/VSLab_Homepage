@@ -47,11 +47,6 @@ permalink: /team/
 
           <div class="profile-role">Assistant Professor</div>
           <div class="profile-email">maycho (at) khu.ac.kr</div>
-
-          <div class="profile-research">
-            <span class="profile-tag">Video Understanding</span>
-            <span class="profile-tag">3D Vision</span>
-          </div>
         </div>
       </article>
     </div>
@@ -97,7 +92,7 @@ permalink: /team/
 
           <div class="profile-research">
             <span class="profile-tag">Video Anomaly Detection</span>
-            <span class="profile-tag">Domain Generalization</span>
+            <span class="profile-tag">Multimodal Learning</span>
           </div>
         </div>
       </article>
@@ -135,7 +130,7 @@ permalink: /team/
 
           <div class="profile-research">
             <span class="profile-tag">Domain Generalization</span>
-            <span class="profile-tag">Segmentation</span>
+            <span class="profile-tag">3D Obejct Detection</span>
           </div>
         </div>
       </article>
@@ -172,7 +167,7 @@ permalink: /team/
           <div class="profile-email">2018102095 (at) khu.ac.kr</div>
 
           <div class="profile-research">
-            <span class="profile-tag">3D Scene Graph</span>
+            <span class="profile-tag">Video Anomaly Detection</span>
             <span class="profile-tag">Representation Learning</span>
           </div>
         </div>
@@ -211,7 +206,7 @@ permalink: /team/
 
           <div class="profile-research">
             <span class="profile-tag">3D Vision</span>
-            <span class="profile-tag">Scene Graph</span>
+            <span class="profile-tag">Human Motion Generation</span>
           </div>
         </div>
       </article>
@@ -248,8 +243,8 @@ permalink: /team/
           <div class="profile-email">fovert (at) khu.ac.kr</div>
 
           <div class="profile-research">
-            <span class="profile-tag">Robotics</span>
-            <span class="profile-tag">Navigation</span>
+            <span class="profile-tag">Multimodal Learning</span>
+            <span class="profile-tag">Detection</span>
           </div>
         </div>
       </article>
@@ -286,8 +281,8 @@ permalink: /team/
           <div class="profile-email">tmdwo8814 (at) khu.ac.kr</div>
 
           <div class="profile-research">
-            <span class="profile-tag">Tracking</span>
-            <span class="profile-tag">Motion Analysis</span>
+            <span class="profile-tag">3D Vision</span>
+            <span class="profile-tag">Multi Object Tracking</span>
           </div>
         </div>
       </article>
@@ -324,8 +319,8 @@ permalink: /team/
           <div class="profile-email">dudrhks1009 (at) khu.ac.kr</div>
 
           <div class="profile-research">
-            <span class="profile-tag">Vision</span>
-            <span class="profile-tag">Representation</span>
+            <span class="profile-tag">Low-Level Vision</span>
+            <span class="profile-tag">Image Reconstruction</span>
           </div>
         </div>
       </article>
@@ -363,7 +358,6 @@ permalink: /team/
 
           <div class="profile-research">
             <span class="profile-tag">Video Anomaly Detection</span>
-            <span class="profile-tag">Weakly-supervised</span>
           </div>
         </div>
       </article>
@@ -400,8 +394,8 @@ permalink: /team/
           <div class="profile-email">spoiuy3 (at) khu.ac.kr</div>
 
           <div class="profile-research">
-            <span class="profile-tag">3D Scene Graph</span>
-            <span class="profile-tag">Multimodal</span>
+            <span class="profile-tag">3D Anomaly Detection</span>
+            <span class="profile-tag">3D Vision</span>
           </div>
         </div>
       </article>
@@ -447,7 +441,7 @@ permalink: /team/
           <div class="profile-email">lhayoung9 (at) khu.ac.kr</div>
 
           <div class="profile-research">
-            <span class="profile-tag">Portfolio</span>
+            <span class="profile-tag">3D Vision</span>
           </div>
         </div>
       </article>
@@ -484,7 +478,7 @@ permalink: /team/
           <div class="profile-email">diplomat3334 (at) khu.ac.kr</div>
 
           <div class="profile-research">
-            <span class="profile-tag">Portfolio</span>
+            <span class="profile-tag">3D Vision</span>
           </div>
         </div>
       </article>
@@ -526,7 +520,7 @@ permalink: /team/
           <div class="profile-email">thom08 (at) khu.ac.kr</div>
 
           <div class="profile-research">
-            <span class="profile-tag">Computer Vision</span>
+            <span class="profile-tag">Image Generation</span>
           </div>
         </div>
       </article>
@@ -584,7 +578,8 @@ permalink: /team/
           <div class="profile-email">chanse0727 (at) khu.ac.kr</div>
 
           <div class="profile-research">
-            <span class="profile-tag">Portfolio</span>
+            <span class="profile-tag">3D Object Detection</span>
+            <span class="profile-tag">3D Anomaly Detection</span>
           </div>
         </div>
       </article>
