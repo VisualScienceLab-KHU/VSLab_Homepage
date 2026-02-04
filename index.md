@@ -190,7 +190,7 @@ permalink: /
           <div class="news-text">
             Our paper has been accepted to ELSEVIER
             <a href="https://www.sciencedirect.com/journal/pattern-recognition" target="_blank" rel="noopener">Pattern Recognition</a>.
-            (<u>JCR Top 8.8%<\u>).
+            (IF: 7.6).
           </div>
         </div>
       </article>
