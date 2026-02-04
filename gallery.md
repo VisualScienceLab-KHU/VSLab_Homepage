@@ -20,7 +20,7 @@ permalink: /gallery/
         <div class="gallery-carousel" data-autoplay="false">
           <div class="gallery-viewport">
             <div class="gallery-slide is-active">
-              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/AAAI/1.png' | relative_url }}" alt="AAAI 2026 photo 1">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/AAAI/1.jpg' | relative_url }}" alt="AAAI 2026 photo 1">
             </div>
             <div class="gallery-slide">
               <img class="gallery-img" src="{{ '/assets/img/gallery/2026/AAAI/2.jpg' | relative_url }}" alt="AAAI 2026 photo 2">
