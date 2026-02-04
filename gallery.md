@@ -15,6 +15,28 @@ permalink: /gallery/
 
     <div class="gallery-grid">
 
+      <!-- AAAI 2026 (1~3) -->
+      <article class="gallery-tile">
+        <div class="gallery-carousel" data-autoplay="false">
+          <div class="gallery-viewport">
+            <div class="gallery-slide is-active">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/AAAI/1.png' | relative_url }}" alt="AAAI 2026 photo 1">
+            </div>
+            <div class="gallery-slide">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/AAAI/2.jpg' | relative_url }}" alt="AAAI 2026 photo 2">
+            </div>
+            <div class="gallery-slide">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/AAAI/3.jpg' | relative_url }}" alt="AAAI 2026 photo 3">
+            </div>
+
+            <button class="gallery-btn gallery-btn--prev" type="button" aria-label="Previous">‹</button>
+            <button class="gallery-btn gallery-btn--next" type="button" aria-label="Next">›</button>
+          </div>
+          <div class="gallery-dots" aria-label="carousel dots"></div>
+        </div>
+        <div class="gallery-caption">AAAI 2026</div>
+      </article>
+
       <!-- 2025 KSC (1~2, PNG) -->
       <article class="gallery-tile">
         <div class="gallery-carousel" data-autoplay="false">

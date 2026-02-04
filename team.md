@@ -616,7 +616,7 @@ permalink: /team/
           <div class="profile-email">mathewgwon (at) khu.ac.kr</div>
 
           <div class="profile-research">
-            <span class="profile-tag">Portfolio</span>
+            <span class="profile-tag">Human Motion Generation</span>
           </div>
         </div>
       </article>
