@@ -157,3 +157,14 @@
     start();
   });
 })();
+
+document.addEventListener("contextmenu", (e) => {
+  const gallery = e.target.closest(".gallery-page");
+  if (gallery) e.preventDefault();
+});
+
+// Disable dragging images in Gallery
+document.addEventListener("dragstart", (e) => {
+  const img = e.target.closest(".gallery-page img");
+  if (img) e.preventDefault();
+});

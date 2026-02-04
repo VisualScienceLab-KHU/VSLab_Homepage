@@ -53,7 +53,7 @@ permalink: /gallery/
           </div>
           <div class="gallery-dots" aria-label="carousel dots"></div>
         </div>
-        <div class="gallery-caption">2025 KSC</div>
+        <div class="gallery-caption">KSC 2025</div>
       </article>
 
       <!-- 2025 Winter Workshop (1~2, png) -->
@@ -94,7 +94,7 @@ permalink: /gallery/
           </div>
           <div class="gallery-dots" aria-label="carousel dots"></div>
         </div>
-        <div class="gallery-caption">2025 NeurIPS</div>
+        <div class="gallery-caption">NeurIPS 2025</div>
       </article>
 
       <!-- 2025 KCC (1~2) -->
@@ -113,7 +113,7 @@ permalink: /gallery/
           </div>
           <div class="gallery-dots" aria-label="carousel dots"></div>
         </div>
-        <div class="gallery-caption">2025 KCC</div>
+        <div class="gallery-caption">KCC 2025</div>
       </article>
 
       <!-- 2025 Summer Workshop (1~3) -->
@@ -227,7 +227,7 @@ permalink: /gallery/
           </div>
           <div class="gallery-dots" aria-label="carousel dots"></div>
         </div>
-        <div class="gallery-caption">2024 KSC</div>
+        <div class="gallery-caption">KSC 2024</div>
       </article>
 
       <!-- 2024 Winter Workshop (1~5) -->
@@ -275,7 +275,7 @@ permalink: /gallery/
           <div class="gallery-dots" aria-label="carousel dots"></div>
         </div>
 
-        <div class="gallery-caption">2024 NeurIPS</div>
+        <div class="gallery-caption">NeurIPS 2024</div>
       </article>
 
       <!-- 2024 Summer Graduation (1) -->
