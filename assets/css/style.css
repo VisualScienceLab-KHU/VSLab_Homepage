@@ -1364,3 +1364,20 @@ html{ scrollbar-gutter: stable; }
   backface-visibility: hidden;
   transform: translateZ(0);
 }
+
+/* Research page mobile fix: prevent overlap */
+@media (max-width: 520px){
+  .research-grid{
+    grid-template-columns: 1fr;
+  }
+
+  .research-item{
+    grid-template-columns: 1fr;  /* 이미지 위, 텍스트 아래 */
+    gap: 12px;
+  }
+
+  .research-media{
+    width: 100%;
+    aspect-ratio: 16 / 9;        /* 모바일에서는 가로형이 보기 좋음 */
+  }
+}

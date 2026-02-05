@@ -157,7 +157,7 @@ permalink: /
         <div class="news-body">
           <div class="news-date">September 2025</div>
           <div class="news-text">
-            Our paper, KH Heo etal. "Object-Centric Representation Learning for Enhanced 3D Semantic Scene Graph Prediction," has been accepted to
+            Our paper, KH Heo et al. "Object-Centric Representation Learning for Enhanced 3D Semantic Scene Graph Prediction," has been accepted to
             <a href="https://nips.cc/" target="_blank" rel="noopener">NeurIPS 2025</a>.
           </div>
         </div>
