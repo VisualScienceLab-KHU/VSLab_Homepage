@@ -1365,19 +1365,30 @@ html{ scrollbar-gutter: stable; }
   transform: translateZ(0);
 }
 
-/* Research page mobile fix: prevent overlap */
+/* Research mobile overlap fix: 모바일에서는 고정 높이 해제 */
 @media (max-width: 520px){
+  .research-item{
+    height: auto !important;     /* ← 겹침 원인 제거 */
+    overflow: visible !important;
+  }
+
   .research-grid{
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr !important;
   }
 
   .research-item{
-    grid-template-columns: 1fr;  /* 이미지 위, 텍스트 아래 */
-    gap: 12px;
+    grid-template-columns: 1fr !important;  /* 이미지 위, 텍스트 아래 */
+    gap: 12px !important;
   }
 
   .research-media{
-    width: 100%;
-    aspect-ratio: 16 / 9;        /* 모바일에서는 가로형이 보기 좋음 */
+    width: 100% !important;
+    aspect-ratio: 16 / 9 !important;
+  }
+
+  /* 모바일에서 리스트가 너무 길면 보기 좋게 줄 간격만 유지 */
+  .research-bullets{
+    max-height: none !important;
+    overflow: visible !important;
   }
 }
