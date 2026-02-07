@@ -129,8 +129,8 @@ permalink: /team/
           <div class="profile-email">rlaxo0511 (at) khu.ac.kr</div>
 
           <div class="profile-research">
-            <span class="profile-tag">Domain Generalization</span>
-            <span class="profile-tag">3D Obejct Detection</span>
+            <span class="profile-tag">Robust Visual Perception</span>
+            <span class="profile-tag">Multimodal Learning</span>
           </div>
         </div>
       </article>
