@@ -33,7 +33,8 @@ permalink: /
 
           <div class="hero-carousel__overlay">
             <div class="hero-carousel__paperTitle">
-              ParTY: Part-Guidance for Expressive Text-to-Motion Synthesis, CVPR 2026
+              ParTY: Part-Guidance for Expressive Text-to-Motion Synthesis,<br> 
+              CVPR 2026
             </div>
             <a class="hero-carousel__learnMore" href="https://visualsciencelab-khu.github.io/" target="_blank" rel="noopener">
               Learn more
