@@ -27,6 +27,35 @@ permalink: /
           </div>
         </div>
 
+        <div class="hero-carousel__slide hero-carousel__slide--contain">
+          <img class="hero-carousel__img" src="{{ '/assets/img/main_party.png' | relative_url }}" alt="Research highlight 1">
+          <div class="hero-carousel__shade" aria-hidden="true"></div>
+
+          <div class="hero-carousel__overlay">
+            <div class="hero-carousel__paperTitle">
+              ParTY: Part-Guidance for Expressive Text-to-Motion Synthesis, CVPR 2026
+            </div>
+            <a class="hero-carousel__learnMore" href="https://visualsciencelab-khu.github.io/" target="_blank" rel="noopener">
+              Learn more
+            </a>
+          </div>
+        </div>
+
+        <div class="hero-carousel__slide hero-carousel__slide--contain">
+          <img class="hero-carousel__img" src="{{ '/assets/img/main_sdr.png' | relative_url }}" alt="Research highlight 1">
+          <div class="hero-carousel__shade" aria-hidden="true"></div>
+
+          <div class="hero-carousel__overlay">
+            <div class="hero-carousel__paperTitle">
+              A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection, CVPR 2026
+            </div>
+            <a class="hero-carousel__learnMore" href="https://visualsciencelab-khu.github.io/" target="_blank" rel="noopener">
+              Learn more
+            </a>
+          </div>
+        </div>
+
+
         <!-- Slide 2 -->
         <div class="hero-carousel__slide hero-carousel__slide--contain">
           <img class="hero-carousel__img" src="{{ '/assets/img/main_slide-2.png' | relative_url }}" alt="Research highlight 1">
@@ -141,6 +170,17 @@ permalink: /
     </div>
 
     <div class="news">
+      <article class="news-item">
+        <div class="news-thumb" aria-hidden="true">AAAI</div>
+        <div class="news-body">
+          <div class="news-date">February 2026</div>
+          <div class="news-text">
+            <span class="news-highlight">Two papers</span> led by SuYeon Kim, KunHo Heo have been accepted to
+            <a href="https://cvpr.thecvf.com/Conferences/2026" target="_blank" rel="noopener">CVPR 2026</a>.
+          </div>
+        </div>
+      </article>
+
       <article class="news-item">
         <div class="news-thumb" aria-hidden="true">AAAI</div>
         <div class="news-body">
