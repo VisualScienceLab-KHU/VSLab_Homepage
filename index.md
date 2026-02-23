@@ -174,7 +174,7 @@ permalink: /
 
     <div class="news">
       <article class="news-item">
-        <div class="news-thumb" aria-hidden="true">AAAI</div>
+        <div class="news-thumb" aria-hidden="true">CVPR</div>
         <div class="news-body">
           <div class="news-date">February 2026</div>
           <div class="news-text">
