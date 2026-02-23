@@ -42,7 +42,7 @@ permalink: /
         </div>
 
         <div class="hero-carousel__slide hero-carousel__slide--contain">
-          <img class="hero-carousel__img" src="{{ '/assets/img/main_sdr.png' | relative_url }}" alt="Research highlight 1">
+          <img class="hero-carousel__img" src="{{ '/assets/img/main_sdr.png' | relative_url }}" alt="Research highlight 2">
           <div class="hero-carousel__shade" aria-hidden="true"></div>
 
           <div class="hero-carousel__overlay">
@@ -58,7 +58,7 @@ permalink: /
 
         <!-- Slide 2 -->
         <div class="hero-carousel__slide hero-carousel__slide--contain">
-          <img class="hero-carousel__img" src="{{ '/assets/img/main_slide-2.png' | relative_url }}" alt="Research highlight 1">
+          <img class="hero-carousel__img" src="{{ '/assets/img/main_slide-2.png' | relative_url }}" alt="Research highlight 3">
           <div class="hero-carousel__shade" aria-hidden="true"></div>
 
           <div class="hero-carousel__overlay">
@@ -73,7 +73,7 @@ permalink: /
 
         <!-- Slide 3 -->
         <div class="hero-carousel__slide hero-carousel__slide--contain">
-          <img class="hero-carousel__img" src="{{ '/assets/img/main_slide-3.png' | relative_url }}" alt="Research highlight 2">
+          <img class="hero-carousel__img" src="{{ '/assets/img/main_slide-3.png' | relative_url }}" alt="Research highlight 4">
           <div class="hero-carousel__shade" aria-hidden="true"></div>
 
           <div class="hero-carousel__overlay">
@@ -88,7 +88,7 @@ permalink: /
 
         <!-- Slide 4 -->
         <div class="hero-carousel__slide hero-carousel__slide--contain">
-          <img class="hero-carousel__img" src="{{ '/assets/img/main_slide-4.jpg' | relative_url }}" alt="Research highlight 3">
+          <img class="hero-carousel__img" src="{{ '/assets/img/main_slide-4.jpg' | relative_url }}" alt="Research highlight 5">
           <div class="hero-carousel__shade" aria-hidden="true"></div>
 
           <div class="hero-carousel__overlay">
@@ -103,7 +103,7 @@ permalink: /
 
         <!-- Slide 5 -->
         <div class="hero-carousel__slide hero-carousel__slide--contain">
-          <img class="hero-carousel__img" src="{{ '/assets/img/main_slide-5.png' | relative_url }}" alt="Research highlight 4">
+          <img class="hero-carousel__img" src="{{ '/assets/img/main_slide-5.png' | relative_url }}" alt="Research highlight 6">
           <div class="hero-carousel__shade" aria-hidden="true"></div>
 
           <div class="hero-carousel__overlay">
@@ -127,6 +127,8 @@ permalink: /
           <button class="hero-carousel__dot" type="button" aria-label="Go to slide 3"></button>
           <button class="hero-carousel__dot" type="button" aria-label="Go to slide 4"></button>
           <button class="hero-carousel__dot" type="button" aria-label="Go to slide 5"></button>
+          <button class="hero-carousel__dot" type="button" aria-label="Go to slide 6"></button>
+          <button class="hero-carousel__dot" type="button" aria-label="Go to slide 7"></button>
         </div>
     </div>
   </div>
