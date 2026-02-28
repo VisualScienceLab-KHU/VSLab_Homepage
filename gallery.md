@@ -15,6 +15,25 @@ permalink: /gallery/
 
     <div class="gallery-grid">
 
+      <!-- 2026 Undergraduate Graduation Ceremony (1~2, PNG) -->
+      <article class="gallery-tile">
+        <div class="gallery-carousel" data-autoplay="false">
+          <div class="gallery-viewport">
+            <div class="gallery-slide is-active">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/졸업식/1.jpg' | relative_url }}" alt="Graduation 2026 photo 1">
+            </div>
+            <div class="gallery-slide">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/졸업식/2.jpg' | relative_url }}" alt="Graduation 2026 photo 2">
+            </div>
+
+            <button class="gallery-btn gallery-btn--prev" type="button" aria-label="Previous">‹</button>
+            <button class="gallery-btn gallery-btn--next" type="button" aria-label="Next">›</button>
+          </div>
+          <div class="gallery-dots" aria-label="carousel dots"></div>
+        </div>
+        <div class="gallery-caption">2026 Undergraduate Graduation Ceremony</div>
+      </article>
+
       <!-- AAAI 2026 (1~3) -->
       <article class="gallery-tile">
         <div class="gallery-carousel" data-autoplay="false">
