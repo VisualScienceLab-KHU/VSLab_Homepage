@@ -15,7 +15,7 @@ permalink: /gallery/
 
     <div class="gallery-grid">
 
-      <!-- 2026 Undergraduate Graduation Ceremony (1~2, PNG) -->
+      <!-- 2026 Undergraduate Graduation (1~2, PNG) -->
       <article class="gallery-tile">
         <div class="gallery-carousel" data-autoplay="false">
           <div class="gallery-viewport">
@@ -31,7 +31,7 @@ permalink: /gallery/
           </div>
           <div class="gallery-dots" aria-label="carousel dots"></div>
         </div>
-        <div class="gallery-caption">2026 Undergraduate Graduation Ceremony</div>
+        <div class="gallery-caption">2026 Undergraduate Graduation</div>
       </article>
 
       <!-- AAAI 2026 (1~3) -->
@@ -214,12 +214,12 @@ permalink: /gallery/
         <div class="gallery-caption">2025 March Birthday Party</div>
       </article>
 
-      <!-- 2025 Undergraduate Graduation Ceremony (1) -->
+      <!-- 2025 Undergraduate Graduation -->
       <article class="gallery-tile">
         <div class="gallery-carousel" data-autoplay="false">
           <div class="gallery-viewport">
             <div class="gallery-slide is-active">
-              <img class="gallery-img" src="{{ '/assets/img/gallery/2025/winter_graduate/1.jpg' | relative_url }}" alt="Undergraduate Graduation Ceremony 2025 photo 1">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2025/winter_graduate/1.jpg' | relative_url }}" alt="Undergraduate Graduation 2025 photo 1">
             </div>
 
             <button class="gallery-btn gallery-btn--prev" type="button" aria-label="Previous">‹</button>
@@ -227,7 +227,7 @@ permalink: /gallery/
           </div>
           <div class="gallery-dots" aria-label="carousel dots"></div>
         </div>
-        <div class="gallery-caption">2025 Undergraduate Graduation Ceremony</div>
+        <div class="gallery-caption">2025 Undergraduate Graduation</div>
       </article>
 
       <!-- 2024 KSC (1~2) -->
