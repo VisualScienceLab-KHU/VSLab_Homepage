@@ -411,6 +411,23 @@ permalink: /team/
     <div class="team-grid">
       <article class="profile">
         <div class="profile-photo">
+          <img src="{{ '/assets/img/team/donghyeon_jeon.png' | relative_url }}" alt="Donghyeon Jeon"
+               onerror="this.style.display='none'; this.parentElement.classList.add('is-empty');">
+        </div>
+
+        <div class="profile-body">
+          <div class="profile-name-row">
+            <span class="profile-name">Donghyeon Jeon</span>
+            <!-- 링크 없으면 아이콘 제거해도 됨 -->
+          </div>
+
+          <div class="profile-role"></div>
+          <div class="profile-email">amuse_dh (at) naver.com</div>
+        </div>
+      </article>
+      
+      <article class="profile">
+        <div class="profile-photo">
           <img src="{{ '/assets/img/team/hayoung_lee.png' | relative_url }}" alt="Hayoung Lee"
                onerror="this.style.display='none'; this.parentElement.classList.add('is-empty');">
         </div>
@@ -618,6 +635,23 @@ permalink: /team/
           <div class="profile-research">
             <span class="profile-tag">Human Motion Generation</span>
           </div>
+        </div>
+      </article>
+
+      <article class="profile">
+        <div class="profile-photo">
+          <img src="{{ '/assets/img/team/junhee_park.png' | relative_url }}" alt="Junhee Park"
+               onerror="this.style.display='none'; this.parentElement.classList.add('is-empty');">
+        </div>
+
+        <div class="profile-body">
+          <div class="profile-name-row">
+            <span class="profile-name">Junhee Park</span>
+            <!-- 링크 없으면 아이콘 제거해도 됨 -->
+          </div>
+
+          <div class="profile-role"></div>
+          <div class="profile-email">pjhi0725 (at) khu.ac.kr</div>
         </div>
       </article>
     </div>
