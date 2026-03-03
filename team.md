@@ -411,7 +411,7 @@ permalink: /team/
     <div class="team-grid">
       <article class="profile">
         <div class="profile-photo">
-          <img src="{{ '/assets/img/team/donghyeon_jeon.png' | relative_url }}" alt="Donghyeon Jeon"
+          <img src="{{ '/assets/img/team/donghyeon_jeon.jpg' | relative_url }}" alt="Donghyeon Jeon"
                onerror="this.style.display='none'; this.parentElement.classList.add('is-empty');">
         </div>
 
