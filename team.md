@@ -372,7 +372,7 @@ permalink: /team/
           <div class="profile-name-row">
             <span class="profile-name">SuYeon Kim</span>
             <a class="profile-icon-link"
-               href="https://jagged-shoemaker-d6c.notion.site/SuYeon-Kim-262048ede99680799d03f7b32004d93d"
+               href="https://spoiuy3.github.io/"
                target="_blank" rel="noopener"
                aria-label="Personal website">
               <svg class="profile-icon" viewBox="0 0 442.246 442.246" aria-hidden="true">
