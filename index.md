@@ -36,7 +36,7 @@ permalink: /
               ParTY: Part-Guidance for Expressive Text-to-Motion Synthesis,<br> 
               CVPR 2026
             </div>
-            <a class="hero-carousel__learnMore" href="https://visualsciencelab-khu.github.io/" target="_blank" rel="noopener">
+            <a class="hero-carousel__learnMore" href="https://visualsciencelab-khu.github.io/ParTY_project/" target="_blank" rel="noopener">
               Learn more
             </a>
           </div>
@@ -50,7 +50,7 @@ permalink: /
             <div class="hero-carousel__paperTitle">
               A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection, CVPR 2026
             </div>
-            <a class="hero-carousel__learnMore" href="https://visualsciencelab-khu.github.io/" target="_blank" rel="noopener">
+            <a class="hero-carousel__learnMore" href="https://visualsciencelab-khu.github.io/SeDiR_project/" target="_blank" rel="noopener">
               Learn more
             </a>
           </div>

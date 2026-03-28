@@ -27,13 +27,65 @@ permalink: /publications/
     <div class="pub-list">
 
       <article class="pub-item">
-        <div class="pub-item__title">ParTY: Part-Guidance for Expressive Text-to-Motion Synthesis</div>
+        <div class="pub-item__top">
+          <div class="pub-item__title">
+            ParTY: Part-Guidance for Expressive Text-to-Motion Synthesis
+            <span class="pub-actions pub-actions--inline">
+              <a class="pub-linkbtn pub-linkbtn--paper"
+                href="https://arxiv.org/abs/2603.09611"
+                target="_blank" rel="noopener">
+                <span class="pub-linkbtn__icon"><i class="fa-regular fa-file-pdf"></i></span>
+                <span>Paper</span>
+              </a>
+              <span class="pub-actions__sep">·</span>
+              <a class="pub-linkbtn pub-linkbtn--project"
+                href="https://visualsciencelab-khu.github.io/ParTY_project/"
+                target="_blank" rel="noopener">
+                <span class="pub-linkbtn__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></span>
+                <span>Project</span>
+              </a>
+              <span class="pub-actions__sep">·</span>
+              <a class="pub-linkbtn pub-linkbtn--code"
+                href="https://github.com/VisualScienceLab-KHU/ParTY"
+                target="_blank" rel="noopener">
+                <span class="pub-linkbtn__icon"><i class="fa-brands fa-github"></i></span>
+                <span>Code</span>
+              </a>
+            </span>
+          </div>
+        </div>
         <div class="pub-item__authors">KunHo Heo, SuYeon Kim, Yonghyun Gwon, Youngbin Kim, MyeongAh Cho</div>
         <div class="pub-item__venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), Jun. 2026</div>
       </article>
 
       <article class="pub-item">
-        <div class="pub-item__title">A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection</div>
+        <div class="pub-item__top">
+          <div class="pub-item__title">
+            A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection
+            <span class="pub-actions pub-actions--inline">
+              <a class="pub-linkbtn pub-linkbtn--paper"
+                href="https://arxiv.org/abs/2603.25159"
+                target="_blank" rel="noopener">
+                <span class="pub-linkbtn__icon"><i class="fa-regular fa-file-pdf"></i></span>
+                <span>Paper</span>
+              </a>
+              <span class="pub-actions__sep">·</span>
+              <a class="pub-linkbtn pub-linkbtn--project"
+                href="https://visualsciencelab-khu.github.io/SeDiR_project/"
+                target="_blank" rel="noopener">
+                <span class="pub-linkbtn__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></span>
+                <span>Project</span>
+              </a>
+              <span class="pub-actions__sep">·</span>
+              <a class="pub-linkbtn pub-linkbtn--code"
+                href="https://github.com/VisualScienceLab-KHU/SeDiR"
+                target="_blank" rel="noopener">
+                <span class="pub-linkbtn__icon"><i class="fa-brands fa-github"></i></span>
+                <span>Code</span>
+              </a>
+            </span>
+          </div>
+        </div>
         <div class="pub-item__authors">SuYeon Kim, Wongyu Lee, MyeongAh Cho</div>
         <div class="pub-item__venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), Jun. 2026</div>
       </article>
