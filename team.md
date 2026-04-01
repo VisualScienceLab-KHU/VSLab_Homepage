@@ -429,12 +429,12 @@ permalink: /team/
 
         <div class="profile-body">
           <div class="profile-name-row">
-            <span class="profile-name">Junseok Yu</span>
+            <span class="profile-name">Junhee Park</span>
             <!-- 링크 없으면 아이콘 제거해도 됨 -->
           </div>
 
           <div class="profile-role"></div>
-          <div class="profile-email">jsy348 (at) khu.ac.kr</div>
+          <div class="profile-email">pjhi0725 (at) khu.ac.kr</div>
         </div>
       </article>
 
@@ -446,12 +446,12 @@ permalink: /team/
 
         <div class="profile-body">
           <div class="profile-name-row">
-            <span class="profile-name">Junhee Park</span>
+            <span class="profile-name">Junseok Yu</span>
             <!-- 링크 없으면 아이콘 제거해도 됨 -->
           </div>
 
           <div class="profile-role"></div>
-          <div class="profile-email">pjhi0725 (at) khu.ac.kr</div>
+          <div class="profile-email">jsy348 (at) khu.ac.kr</div>
         </div>
       </article>
     </div>
