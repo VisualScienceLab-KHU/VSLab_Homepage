@@ -56,7 +56,7 @@ permalink: /team/
 <!-- ===== MS Students (white) ===== -->
 <section class="section team-page">
   <div class="wrap">
-    <h2 class="team-section-title">MS Students</h2>
+    <h2 class="team-section-title">M.S. Students</h2>
 
     <div class="team-grid">
       <article class="profile">
