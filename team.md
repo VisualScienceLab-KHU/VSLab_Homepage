@@ -418,16 +418,29 @@ permalink: /team/
 
           <div class="profile-role"></div>
           <div class="profile-email">lhayoung9 (at) khu.ac.kr</div>
-
-          <div class="profile-research">
-            <span class="profile-tag">3D Vision</span>
-          </div>
         </div>
       </article>
 
       <article class="profile">
         <div class="profile-photo">
           <img src="{{ '/assets/img/team/junhee_park.png' | relative_url }}" alt="Junhee Park"
+               onerror="this.style.display='none'; this.parentElement.classList.add('is-empty');">
+        </div>
+
+        <div class="profile-body">
+          <div class="profile-name-row">
+            <span class="profile-name">Junseok Yu</span>
+            <!-- 링크 없으면 아이콘 제거해도 됨 -->
+          </div>
+
+          <div class="profile-role"></div>
+          <div class="profile-email">jsy348 (at) khu.ac.kr</div>
+        </div>
+      </article>
+
+      <article class="profile">
+        <div class="profile-photo">
+          <img src="{{ '/assets/img/team/junseok_Yu.jpg' | relative_url }}" alt="Junseok Yu"
                onerror="this.style.display='none'; this.parentElement.classList.add('is-empty');">
         </div>
 
