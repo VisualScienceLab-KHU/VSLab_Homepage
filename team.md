@@ -357,7 +357,7 @@ permalink: /team/
 
           <div class="profile-research">
             <span class="profile-tag">3D Anomaly Detection</span>
-            <span class="profile-tag">3D Vision</span>
+            <span class="profile-tag">Video Anomaly Detection</span>
           </div>
         </div>
       </article>
