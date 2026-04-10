@@ -28,6 +28,21 @@ permalink: /
         </div>
 
         <div class="hero-carousel__slide hero-carousel__slide--contain">
+          <img class="hero-carousel__img" src="{{ '/assets/img/main_sdr.png' | relative_url }}" alt="Research highlight 2">
+          <div class="hero-carousel__shade" aria-hidden="true"></div>
+
+          <div class="hero-carousel__overlay">
+            <div class="hero-carousel__paperTitle">
+              A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection, CVPR 2026
+              (<span class="highlight-text">Highlight</span>)
+            </div>
+            <a class="hero-carousel__learnMore" href="https://visualsciencelab-khu.github.io/SeDiR_project/" target="_blank" rel="noopener">
+              Learn more
+            </a>
+          </div>
+        </div>
+
+        <div class="hero-carousel__slide hero-carousel__slide--contain">
           <img class="hero-carousel__img" src="{{ '/assets/img/main_party.png' | relative_url }}" alt="Research highlight 1">
           <div class="hero-carousel__shade" aria-hidden="true"></div>
 
@@ -41,21 +56,6 @@ permalink: /
             </a>
           </div>
         </div>
-
-        <div class="hero-carousel__slide hero-carousel__slide--contain">
-          <img class="hero-carousel__img" src="{{ '/assets/img/main_sdr.png' | relative_url }}" alt="Research highlight 2">
-          <div class="hero-carousel__shade" aria-hidden="true"></div>
-
-          <div class="hero-carousel__overlay">
-            <div class="hero-carousel__paperTitle">
-              A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection, CVPR 2026
-            </div>
-            <a class="hero-carousel__learnMore" href="https://visualsciencelab-khu.github.io/SeDiR_project/" target="_blank" rel="noopener">
-              Learn more
-            </a>
-          </div>
-        </div>
-
 
         <!-- Slide 2 -->
         <div class="hero-carousel__slide hero-carousel__slide--contain">
