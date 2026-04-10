@@ -181,7 +181,7 @@ permalink: /
         <div class="news-body">
           <div class="news-date">April 2026</div>
           <div class="news-text">
-            Our paper has been accepted for <span class="news-highlight">Highlight</span> at
+            Our paper was selected as a <span class="news-highlight">Highlight</span> paper at
             <b><i>CVPR 2026!</i></b>
           </div>
         </div>
