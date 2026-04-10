@@ -246,8 +246,7 @@ permalink: /
           <div class="news-date">May 2025</div>
           <div class="news-text">
             Our paper was accepted to ELSEVIER
-            <b><i>Pattern Recognition</i></b>
-            (IF: 7.6).
+            <b><i>Pattern Recognition (IF: 7.6)</i></b>.
           </div>
         </div>
       </article>
