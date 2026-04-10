@@ -87,10 +87,7 @@ permalink: /publications/
           </div>
         </div>
         <div class="pub-item__authors">SuYeon Kim, Wongyu Lee, MyeongAh Cho</div>
-        <div class="pub-item__venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), Jun. 2026 
-        <span style="color: #ffe96d; font-weight: 600; white-space: nowrap;">
-          (Highlight)
-        </span>
+        <div class="pub-item__venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), Jun. 2026 (<span style="color: #ff6d8a; font-weight: 600;">Highlight</span>)</div>
       </article>
 
       <article class="pub-item">
