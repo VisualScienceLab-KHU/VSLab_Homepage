@@ -33,8 +33,7 @@ permalink: /
 
           <div class="hero-carousel__overlay">
             <div class="hero-carousel__paperTitle">
-              A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection, CVPR 2026
-              (<span class="highlight-text">Highlight</span>)
+              A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection, CVPR 2026 (<span style="color: #ffaabc; font-weight: 600;">Highlight</span>)
             </div>
             <a class="hero-carousel__learnMore" href="https://visualsciencelab-khu.github.io/SeDiR_project/" target="_blank" rel="noopener">
               Learn more
