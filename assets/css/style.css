@@ -550,7 +550,7 @@ html{ scrollbar-gutter: stable; }
 .hero-carousel__slide--contain .hero-carousel__paperTitle{
   width: 100%;
   min-height: var(--bar-h);
-  display: flex;
+  display: block;
   align-items: center;
   padding: 14px 128px 14px 16px; /* reserve right space for button */
   margin: 0;
