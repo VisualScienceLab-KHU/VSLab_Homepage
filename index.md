@@ -34,7 +34,7 @@ permalink: /
           <div class="hero-carousel__overlay">
             <div class="hero-carousel__paperTitle">
               A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection, CVPR 2026 
-              <span style="color: #ffe96d; font-weight: 600; white-space: nowrap;">
+              <span style="color: #ffe96d; font-weight: 600; white-space: nowrap; display: inline;">
                 (Highlight)
               </span>
             </div>
