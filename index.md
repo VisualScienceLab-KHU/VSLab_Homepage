@@ -175,13 +175,25 @@ permalink: /
     </div>
 
     <div class="news">
+
+      <article class="news-item">
+        <div class="news-thumb" aria-hidden="true">CVPR</div>
+        <div class="news-body">
+          <div class="news-date">April 2026</div>
+          <div class="news-text">
+            Our paper has been accepted for <span class="news-highlight">Highlight</span> at
+            <b><i>CVPR 2026!</i></b>
+          </div>
+        </div>
+      </article>
+
       <article class="news-item">
         <div class="news-thumb" aria-hidden="true">CVPR</div>
         <div class="news-body">
           <div class="news-date">February 2026</div>
           <div class="news-text">
-            <span class="news-highlight">Two papers</span> led by SuYeon Kim, KunHo Heo have been accepted to
-            <a href="https://cvpr.thecvf.com/Conferences/2026" target="_blank" rel="noopener">CVPR 2026</a>.
+            <span class="news-highlight">Two papers</span> led by SuYeon Kim, KunHo Heo were accepted to
+            <b><i>CVPR 2026</i></b>.
           </div>
         </div>
       </article>
@@ -191,8 +203,8 @@ permalink: /
         <div class="news-body">
           <div class="news-date">January 2026</div>
           <div class="news-text">
-            <span class="news-highlight">Three papers</span> led by Taeyeong Kim, Junhee Lee, and Seungjae Kim have been accepted to
-            <a href="https://aaai.org/conference/aaai/aaai-26/" target="_blank" rel="noopener">AAAI 2026</a>.
+            <span class="news-highlight">Three papers</span> led by Taeyeong Kim, Junhee Lee, and Seungjae Kim were accepted to
+            <b><i>AAAI 2026</i></b>.
           </div>
         </div>
       </article>
@@ -202,8 +214,8 @@ permalink: /
         <div class="news-body">
           <div class="news-date">September 2025</div>
           <div class="news-text">
-            Our paper, KH Heo et al. "Object-Centric Representation Learning for Enhanced 3D Semantic Scene Graph Prediction," has been accepted to
-            <a href="https://nips.cc/" target="_blank" rel="noopener">NeurIPS 2025</a>.
+            Our paper, KH Heo et al. "Object-Centric Representation Learning for Enhanced 3D Semantic Scene Graph Prediction," was accepted to
+            <b><i>NeurIPS 2025</i></b>.
           </div>
         </div>
       </article>
@@ -223,7 +235,7 @@ permalink: /
         <div class="news-body">
           <div class="news-date">August 2025</div>
           <div class="news-text">
-            Our paper "Distance-based Bi-directional Edge Update Graph Neural Network for 3D Scene Graph Generation" has won the Excellence Award at the Junior Paper Competition from KCC 2025.
+            Our paper "Distance-based Bi-directional Edge Update Graph Neural Network for 3D Scene Graph Generation" won the Excellence Award at the Junior Paper Competition from KCC 2025.
           </div>
         </div>
       </article>
@@ -233,8 +245,8 @@ permalink: /
         <div class="news-body">
           <div class="news-date">May 2025</div>
           <div class="news-text">
-            Our paper has been accepted to ELSEVIER
-            <a href="https://www.sciencedirect.com/journal/pattern-recognition" target="_blank" rel="noopener">Pattern Recognition</a>.
+            Our paper was accepted to ELSEVIER
+            <b><i>Pattern Recognition</i></b>
             (IF: 7.6).
           </div>
         </div>
