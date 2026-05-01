@@ -182,7 +182,7 @@ permalink: /
           <div class="news-date">April 2026</div>
           <div class="news-text">
             Our paper was selected as a <span class="news-highlight">Highlight</span> paper at
-            <b><i>CVPR 2026!</i></b> (acceptance rate = <span class="news-highlight">3.0%</span>)
+            <b><i>CVPR 2026! (acceptance rate = <span class="news-highlight">3.0%</span>)</i></b>
           </div>
         </div>
       </article>
