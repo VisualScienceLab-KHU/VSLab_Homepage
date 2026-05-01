@@ -35,7 +35,7 @@ permalink: /
             <div class="hero-carousel__paperTitle">
               A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection, CVPR 2026 
               <span style="white-space: nowrap;">
-                (<span style="color: #ff526f; font-weight: 600;">Highlight</span>, aceeptance rate = <span style="color: #ff526f; font-weight: 600;">3.0%</span>)
+                (<span style="color: #ffa9b7; font-weight: 600;">Highlight, Aceeptance Rate 3.0%</span>)
               </span>
             </div>
             <a class="hero-carousel__learnMore" href="https://visualsciencelab-khu.github.io/SeDiR_project/" target="_blank" rel="noopener">
