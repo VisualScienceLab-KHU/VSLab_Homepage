@@ -26,6 +26,18 @@ permalink: /publications/
     <h3 class="pub-year">2026</h3>
     <div class="pub-list">
 
+    <article class="pub-item">
+        <div class="pub-item__title">Towards Efficient Consistency Models via Variance-Reduced Distillation</div>
+        <div class="pub-item__authors">Sunhyuk Yim, MyeongAh Cho, Dongwoo Kang, Sangyoun Lee</div>
+        <div class="pub-item__venue">IEEE Transactions on Neural Networks and Learning Systems, Jun. 2026 (<u>JCR Top 2.5%</u>)</div>
+      </article>
+
+      <article class="pub-item">
+        <div class="pub-item__title">Adverse Weather Removal via Dynamic Enhancement Diffusion with Weather-Adaptive Prompting</div>
+        <div class="pub-item__authors">Youngmin Oh, Sungyoung Lee, MyeongAh Cho*, Jung Uk Kim*</div>
+        <div class="pub-item__venue">IEEE Transactions on Image Processing, Jun. 2026 (<u>JCR Top 2.0%</u>)</div>
+      </article>
+
       <article class="pub-item">
         <div class="pub-item__top">
           <div class="pub-item__title">
