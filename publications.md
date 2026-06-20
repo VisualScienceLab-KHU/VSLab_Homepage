@@ -28,7 +28,7 @@ permalink: /publications/
 
     <article class="pub-item">
         <div class="pub-item__title">Towards Efficient Consistency Models via Variance-Reduced Distillation</div>
-        <div class="pub-item__authors">Sunhyuk Yim, MyeongAh Cho, Dongwoo Kang, Sangyoun Lee</div>
+        <div class="pub-item__authorsUseok Choi, Seung Joon Lee, Myeongah Cho</div>
         <div class="pub-item__venue">IEEE Transactions on Neural Networks and Learning Systems, Jun. 2026 (<u>JCR Top 2.5%</u>)</div>
       </article>
 
