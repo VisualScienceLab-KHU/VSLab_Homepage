@@ -177,6 +177,17 @@ permalink: /
     <div class="news">
 
       <article class="news-item">
+        <div class="news-thumb" aria-hidden="true">ECCV</div>
+        <div class="news-body">
+          <div class="news-date">June 2026</div>
+          <div class="news-text">
+            <span class="news-highlight">Two papers</span> led by KunHo Heo, MyoungChul Kim were accepted to
+            <b><i>ECCV 2026</i></b>.
+          </div>
+        </div>
+      </article>
+
+      <article class="news-item">
         <div class="news-thumb" aria-hidden="true">CVPR</div>
         <div class="news-body">
           <div class="news-date">April 2026</div>
@@ -225,7 +236,7 @@ permalink: /
         <div class="news-body">
           <div class="news-date">September 2025</div>
           <div class="news-text">
-            Myoungchul Kim has been awarded the NRF "Research Subsidies for Master’s Students" grant (Annual research budget: 12 million KRW).
+            MyoungChul Kim has been awarded the NRF "Research Subsidies for Master’s Students" grant (Annual research budget: 12 million KRW).
           </div>
         </div>
       </article>

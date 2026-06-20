@@ -28,7 +28,7 @@ permalink: /publications/
 
       <article class="pub-item">
         <div class="pub-item__title">CLUE-VAD: Structured Semantic Clues for Understanding Explainable Events in Video Anomaly Detection</div>
-        <div class="pub-item__authors">MyoungChul KIM, Junhee Lee, ChaeBeen Bang, MyeongAh Cho</div>
+        <div class="pub-item__authors">MyoungChul Kim, Junhee Lee, ChaeBeen Bang, MyeongAh Cho</div>
         <div class="pub-item__venue">European Conference on Computer Vision (ECCV), Sep. 2026</div>
       </article>
 
