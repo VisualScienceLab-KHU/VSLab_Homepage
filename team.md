@@ -361,16 +361,7 @@ permalink: /team/
           </div>
         </div>
       </article>
-    </div>
-  </div>
-</section>
-
-<!-- ===== Undergraduate Interns (alt) ===== -->
-<section class="section alt team-page">
-  <div class="wrap">
-    <h2 class="team-section-title">Undergraduate Interns</h2>
-
-    <div class="team-grid">
+      
       <article class="profile">
         <div class="profile-photo">
           <img src="{{ '/assets/img/team/donghyeon_jeon.jpg' | relative_url }}" alt="Donghyeon Jeon"
@@ -387,7 +378,16 @@ permalink: /team/
           <div class="profile-email">amuse_dh (at) naver.com</div>
         </div>
       </article>
-      
+    </div>
+  </div>
+</section>
+
+<!-- ===== Undergraduate Interns (alt) ===== -->
+<section class="section alt team-page">
+  <div class="wrap">
+    <h2 class="team-section-title">Undergraduate Interns</h2>
+
+    <div class="team-grid">      
       <article class="profile">
         <div class="profile-photo">
           <img src="{{ '/assets/img/team/hayoung_lee.png' | relative_url }}" alt="Hayoung Lee"

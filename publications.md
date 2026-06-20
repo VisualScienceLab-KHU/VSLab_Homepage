@@ -26,7 +26,13 @@ permalink: /publications/
     <h3 class="pub-year">2026</h3>
     <div class="pub-list">
 
-    <article class="pub-item">
+      <article class="pub-item">
+        <div class="pub-item__title">Rethinking Prototype-based Similarity Learning for Few-Shot Object Detection</div>
+        <div class="pub-item__authors">KunHo Heo*, Seungjae kim*, Wongyu Lee*, SuYeon Kim, MyeongAh Cho</div>
+        <div class="pub-item__venue">European Conference on Computer Vision (ECCV), Sep. 2026</div>
+      </article>
+
+      <article class="pub-item">
         <div class="pub-item__title">Towards Efficient Consistency Models via Variance-Reduced Distillation</div>
         <div class="pub-item__authors">Useok Choi, Seung Joon Lee, Myeongah Cho</div>
         <div class="pub-item__venue">IEEE Transactions on Neural Networks and Learning Systems, Jun. 2026 (<u>JCR Top 2.5%</u>)</div>
