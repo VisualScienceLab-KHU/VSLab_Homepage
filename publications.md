@@ -27,6 +27,12 @@ permalink: /publications/
     <div class="pub-list">
 
       <article class="pub-item">
+        <div class="pub-item__title">CLUE-VAD: Structured Semantic Clues for Understanding Explainable Events in Video Anomaly Detection</div>
+        <div class="pub-item__authors">MyoungChul KIM, Junhee Lee, ChaeBeen Bang, MyeongAh Cho</div>
+        <div class="pub-item__venue">European Conference on Computer Vision (ECCV), Sep. 2026</div>
+      </article>
+
+      <article class="pub-item">
         <div class="pub-item__title">Rethinking Prototype-based Similarity Learning for Few-Shot Object Detection</div>
         <div class="pub-item__authors">KunHo Heo*, Seungjae kim*, Wongyu Lee*, SuYeon Kim, MyeongAh Cho</div>
         <div class="pub-item__venue">European Conference on Computer Vision (ECCV), Sep. 2026</div>
