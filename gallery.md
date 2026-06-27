@@ -15,6 +15,25 @@ permalink: /gallery/
 
     <div class="gallery-grid">
 
+      <!-- 2026 KCC (1~2, PNG) -->
+      <article class="gallery-tile">
+        <div class="gallery-carousel" data-autoplay="false">
+          <div class="gallery-viewport">
+            <div class="gallery-slide is-active">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/KCC/1.PNG' | relative_url }}" alt="KCC 2026 photo 1">
+            </div>
+            <div class="gallery-slide">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/KCC/2.PNG' | relative_url }}" alt="KCC 2026 photo 2">
+            </div>
+
+            <button class="gallery-btn gallery-btn--prev" type="button" aria-label="Previous">‹</button>
+            <button class="gallery-btn gallery-btn--next" type="button" aria-label="Next">›</button>
+          </div>
+          <div class="gallery-dots" aria-label="carousel dots"></div>
+        </div>
+        <div class="gallery-caption">KCC 2026</div>
+      </article>
+
       <!-- 2026 CVPR (1~4) -->
       <article class="gallery-tile">
         <div class="gallery-carousel" data-autoplay="false">
