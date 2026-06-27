@@ -20,10 +20,10 @@ permalink: /gallery/
         <div class="gallery-carousel" data-autoplay="false">
           <div class="gallery-viewport">
             <div class="gallery-slide is-active">
-              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/KCC/1.PNG' | relative_url }}" alt="KCC 2026 photo 1">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/KCC/1.jpg' | relative_url }}" alt="KCC 2026 photo 1">
             </div>
             <div class="gallery-slide">
-              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/KCC/2.PNG' | relative_url }}" alt="KCC 2026 photo 2">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/KCC/2.jpg' | relative_url }}" alt="KCC 2026 photo 2">
             </div>
 
             <button class="gallery-btn gallery-btn--prev" type="button" aria-label="Previous">‹</button>
