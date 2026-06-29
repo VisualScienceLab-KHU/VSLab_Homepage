@@ -457,7 +457,7 @@ permalink: /team/
 
       <article class="profile">
         <div class="profile-photo">
-          <img src="{{ '/assets/img/team/pjw.jpg' | relative_url }}" alt="JaeWon Park"
+          <img src="{{ '/assets/img/team/pjw.png' | relative_url }}" alt="JaeWon Park"
                onerror="this.style.display='none'; this.parentElement.classList.add('is-empty');">
         </div>
 
