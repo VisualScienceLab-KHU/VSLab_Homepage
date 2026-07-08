@@ -27,6 +27,18 @@ permalink: /publications/
     <div class="pub-list">
 
       <article class="pub-item">
+        <div class="pub-item__title">Selective Audio–Visual Fusion via Semantic Calibration for Video Surveillance System</div>
+        <div class="pub-item__authors">Youngbin Kim, Wongyu Lee, SuYeon Kim, MyeongAh Cho</div>
+        <div class="pub-item__venue">IEEE Transactions on Industrial Informatics, Jul. 2026 (<u>JCR Top 6.2%</u>)</div>
+      </article>
+
+      <article class="pub-item">
+        <div class="pub-item__title">ASTRA: Joint Latent Representation and Knowledge Transfer for Multimodal Anomaly Detection</div>
+        <div class="pub-item__authors">Youngbin Kim, Taeyeong Kim, Wongyu Lee, MyeongAh Cho</div>
+        <div class="pub-item__venue">IEEE Access, Jul. 2026 (<u>JCR Top 33.5%</u>)</div>
+      </article>
+
+      <article class="pub-item">
         <div class="pub-item__title">CLUE-VAD: Structured Semantic Clues for Understanding Explainable Events in Video Anomaly Detection</div>
         <div class="pub-item__authors">MyoungChul Kim, Junhee Lee, ChaeBeen Bang, MyeongAh Cho</div>
         <div class="pub-item__venue">European Conference on Computer Vision (ECCV), Sep. 2026</div>
@@ -40,7 +52,7 @@ permalink: /publications/
 
       <article class="pub-item">
         <div class="pub-item__title">Towards Efficient Consistency Models via Variance-Reduced Distillation</div>
-        <div class="pub-item__authors">Useok Choi, Seung Joon Lee, Myeongah Cho</div>
+        <div class="pub-item__authors">Useok Choi, Seung Joon Lee, MyeongAh Cho</div>
         <div class="pub-item__venue">IEEE Transactions on Neural Networks and Learning Systems, Jun. 2026 (<u>JCR Top 2.5%</u>)</div>
       </article>
 
