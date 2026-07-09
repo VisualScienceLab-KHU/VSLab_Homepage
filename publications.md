@@ -45,7 +45,30 @@ permalink: /publications/
       </article>
 
       <article class="pub-item">
-        <div class="pub-item__title">Rethinking Prototype-based Similarity Learning for Few-Shot Object Detection</div>
+        <div class="pub-item__title">Rethinking Prototype-based Similarity Learning for Few-Shot Object Detection
+          <span class="pub-actions pub-actions--inline">
+              <a class="pub-linkbtn pub-linkbtn--paper"
+                href="https://arxiv.org/abs/2606.23069"
+                target="_blank" rel="noopener">
+                <span class="pub-linkbtn__icon"><i class="fa-regular fa-file-pdf"></i></span>
+                <span>Paper</span>
+              </a>
+              <span class="pub-actions__sep">·</span>
+              <a class="pub-linkbtn pub-linkbtn--project"
+                href="https://visualsciencelab-khu.github.io/ReSet_project/"
+                target="_blank" rel="noopener">
+                <span class="pub-linkbtn__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></span>
+                <span>Project</span>
+              </a>
+              <span class="pub-actions__sep">·</span>
+              <a class="pub-linkbtn pub-linkbtn--code"
+                href="https://github.com/VisualScienceLab-KHU/ReSet"
+                target="_blank" rel="noopener">
+                <span class="pub-linkbtn__icon"><i class="fa-brands fa-github"></i></span>
+                <span>Code</span>
+              </a>
+            </span>
+        </div>
         <div class="pub-item__authors">KunHo Heo*, Seungjae kim*, Wongyu Lee*, SuYeon Kim, MyeongAh Cho</div>
         <div class="pub-item__venue">European Conference on Computer Vision (ECCV), Sep. 2026</div>
       </article>
