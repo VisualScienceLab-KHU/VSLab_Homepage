@@ -447,35 +447,44 @@ permalink: /publications/
   <div class="wrap">
     <h2 id="domestic" class="pub-section-title">Domestic Journal / Conference</h2>
 
+    <h3 class="pub-year">2026</h3>
+    <div class="pub-list">
+      <article class="pub-item">
+        <div class="pub-item__title">Listen to Where: Audio & Text-Guided Spatial Refinement for Weakly Supervised Video Anomaly Detection</div>
+        <div class="pub-item__authors">MyoungChul Kim, SuYeon Kim, Youngbin Kim, KunHo Heo, MyeongAh Cho</div>
+        <div class="pub-item__venue">KIISE Korea Computer Congress (KCC 2026), Jun. 2026</div>
+      </article>
+    </div>
+
     <h3 class="pub-year">2025</h3>
     <div class="pub-list">
       <article class="pub-item">
         <div class="pub-item__title">Semi‑Supervised Pseudo Labeling for Robust Real‑World Weather Image Restoration</div>
-        <div class="pub-item__authors">YoungKwan Cho, Youngbin Kim, Taeyeong Kim, Hayoung Lee</div>
+        <div class="pub-item__authors">YoungKwan Cho, Youngbin Kim, Taeyeong Kim, Hayoung Lee, MyeongAh Cho</div>
         <div class="pub-item__venue">KIISE Korea Software Congress (KSC 2025), Dec. 2025</div>
       </article>
 
       <article class="pub-item">
         <div class="pub-item__title">Improving Sound Source Localization Performance Using an Audio Selector</div>
-        <div class="pub-item__authors">Wongyu Lee, MyoungChul Kim, Chanse Oh</div>
+        <div class="pub-item__authors">Wongyu Lee, MyoungChul Kim, Chanse Oh, MyeongAh Cho</div>
         <div class="pub-item__venue">KIISE Korea Software Congress (KSC 2025), Dec. 2025</div>
       </article>
 
       <article class="pub-item">
         <div class="pub-item__title">Efficient 3D Gaussian Splatting with Adaptive Depth Refinement in High-Confidence Regions</div>
-        <div class="pub-item__authors">Seungjae Kim, Taeyeong Kim, SuYeon Kim</div>
+        <div class="pub-item__authors">Seungjae Kim, Taeyeong Kim, SuYeon Kim, MyeongAh Cho</div>
         <div class="pub-item__venue">KIISE Korea Software Congress (KSC 2025), Dec. 2025</div>
       </article>
 
       <article class="pub-item">
         <div class="pub-item__title">Explainable Intelligent Surveillance Video System using Spatial Localization</div>
-        <div class="pub-item__authors">MyoungChul Kim, Seungjae Kim, YongHyun Gwon</div>
+        <div class="pub-item__authors">MyoungChul Kim, Seungjae Kim, YongHyun Gwon, MyeongAh Cho</div>
         <div class="pub-item__venue">KIISE Korea Software Congress (KSC 2025), Dec. 2025</div>
       </article>
 
       <article class="pub-item">
         <div class="pub-item__title">Adaptive BEV Feature Enhancement via Geometric Constraints for 3D Object Detection in Autonomous Driving</div>
-        <div class="pub-item__authors">Taeyeong Kim, KunHo Heo, Wongyu Lee, SeungJoon Lee</div>
+        <div class="pub-item__authors">Taeyeong Kim, KunHo Heo, Wongyu Lee, SeungJoon Lee, MyeongAh Cho</div>
         <div class="pub-item__venue">KIISE Korea Software Congress (KSC 2025), Dec. 2025</div>
       </article>
 
@@ -516,11 +525,11 @@ permalink: /publications/
 
     <ol class="patent-list">
       <li class="patent-item">
-        <div class="patent-title">3D 장면 그래프를 생성하기 위한 방법 및 장치 (2025)</div>
+        <div class="patent-title">Method and Apparatus for Generating 3D Scene Graphs (2025)</div>
         <div class="patent-meta">KR-Application, No.10-2025-0188361</div>
       </li>
       <li class="patent-item">
-        <div class="patent-title">부위별 동작을 합성하여 전신 동작을 생성하는 방법 및 장치 (2025)</div>
+        <div class="patent-title">Method and Apparatus for Generating Whole-Body Motion by Synthesizing Part-wise Motions (2025)</div>
         <div class="patent-meta">KR-Application, No.10-2025-0200238</div>
       </li>
       <li class="patent-item">
