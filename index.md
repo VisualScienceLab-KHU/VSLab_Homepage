@@ -177,7 +177,7 @@ permalink: /
     <div class="news">
 
       <article class="news-item">
-        <div class="news-thumb" aria-hidden="true">Scholarship</div>
+        <div class="news-thumb" aria-hidden="true">Award</div>
         <div class="news-body">
           <div class="news-date">July 2026</div>
           <div class="news-text">
