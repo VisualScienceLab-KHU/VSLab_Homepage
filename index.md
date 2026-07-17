@@ -177,6 +177,16 @@ permalink: /
     <div class="news">
 
       <article class="news-item">
+        <div class="news-thumb" aria-hidden="true">Scholarship</div>
+        <div class="news-body">
+          <div class="news-date">July 2026</div>
+          <div class="news-text">
+            SuYeon Kim has been awarded the Korean Presidential Science Scholarship for Graduate Students.
+          </div>
+        </div>
+      </article>
+
+      <article class="news-item">
         <div class="news-thumb" aria-hidden="true">ECCV</div>
         <div class="news-body">
           <div class="news-date">June 2026</div>
