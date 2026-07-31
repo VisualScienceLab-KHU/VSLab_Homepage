@@ -27,13 +27,31 @@ permalink: /publications/
     <div class="pub-list">
 
       <article class="pub-item">
-        <div class="pub-item__title">Selective Audio–Visual Fusion via Semantic Calibration for Video Surveillance System</div>
+        <div class="pub-item__title">Selective Audio–Visual Fusion via Semantic Calibration for Video Surveillance System
+          <span class="pub-actions pub-actions--inline">
+              <a class="pub-linkbtn pub-linkbtn--paper"
+                href="https://ieeexplore.ieee.org/document/11615012"
+                target="_blank" rel="noopener">
+                <span class="pub-linkbtn__icon"><i class="fa-regular fa-file-pdf"></i></span>
+                <span>Paper</span>
+              </a>
+          </span>
+        </div>
         <div class="pub-item__authors">Youngbin Kim, Wongyu Lee, SuYeon Kim, MyeongAh Cho</div>
         <div class="pub-item__venue">IEEE Transactions on Industrial Informatics, Jul. 2026 (<u>JCR Top 6.2%</u>)</div>
       </article>
 
       <article class="pub-item">
-        <div class="pub-item__title">ASTRA: Joint Latent Representation and Knowledge Transfer for Multimodal Anomaly Detection</div>
+        <div class="pub-item__title">ASTRA: Joint Latent Representation and Knowledge Transfer for Multimodal Anomaly Detection
+          <span class="pub-actions pub-actions--inline">
+              <a class="pub-linkbtn pub-linkbtn--paper"
+                href="https://ieeexplore.ieee.org/document/11595659"
+                target="_blank" rel="noopener">
+                <span class="pub-linkbtn__icon"><i class="fa-regular fa-file-pdf"></i></span>
+                <span>Paper</span>
+              </a>
+          </span>
+        </div>
         <div class="pub-item__authors">Youngbin Kim, Taeyeong Kim, Wongyu Lee, MyeongAh Cho</div>
         <div class="pub-item__venue">IEEE Access, Jul. 2026 (<u>JCR Top 33.5%</u>)</div>
       </article>
