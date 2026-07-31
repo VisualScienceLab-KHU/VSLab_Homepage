@@ -92,7 +92,16 @@ permalink: /publications/
       </article>
 
       <article class="pub-item">
-        <div class="pub-item__title">Towards Efficient Consistency Models via Variance-Reduced Distillation</div>
+        <div class="pub-item__title">Towards Efficient Consistency Models via Variance-Reduced Distillation
+          <span class="pub-actions pub-actions--inline">
+              <a class="pub-linkbtn pub-linkbtn--paper"
+                href="https://ieeexplore.ieee.org/document/11623291"
+                target="_blank" rel="noopener">
+                <span class="pub-linkbtn__icon"><i class="fa-regular fa-file-pdf"></i></span>
+                <span>Paper</span>
+              </a>
+          </span>
+        </div>
         <div class="pub-item__authors">Useok Choi, Seung Joon Lee, MyeongAh Cho</div>
         <div class="pub-item__venue">IEEE Transactions on Neural Networks and Learning Systems, Jun. 2026 (<u>JCR Top 2.5%</u>)</div>
       </article>
