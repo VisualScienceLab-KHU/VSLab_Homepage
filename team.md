@@ -394,8 +394,8 @@ permalink: /team/
           <div class="profile-email">amuse_dh (at) naver.com</div>
 
           <div class="profile-research">
-            <span class="profile-tag">3D Vision</span>
             <span class="profile-tag">3D Object Detection</span>
+            <span class="profile-tag">Multimodal Learning</span>
           </div>
         </div>
       </article>
