@@ -370,7 +370,7 @@ permalink: /team/
 
         <div class="profile-body">
           <div class="profile-name-row">
-            <span class="profile-name">SuYeon Kim</span>
+            <span class="profile-name">Donghyeon Jeon</span>
             <a class="profile-icon-link"
                href="https://amuse-dh.github.io/"
                target="_blank" rel="noopener"
