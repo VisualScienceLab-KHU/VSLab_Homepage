@@ -505,9 +505,9 @@ permalink: /team/
               </svg>
             </a>
           </div>
-
-          <div class="profile-current"><strong>Current:</strong> KIRO (한국로봇융합연구원)</div>
           <div class="profile-email">youngbean (at) kiro.re.kr</div>
+          <div class="profile-current"><strong>Current:</strong> KIRO (한국로봇융합연구원)</div>
+
         </div>
       </article>
 
