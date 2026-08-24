@@ -15,6 +15,28 @@ permalink: /gallery/
 
     <div class="gallery-grid">
 
+      <!-- 2026 Graduation (1~3, JPG) -->
+      <article class="gallery-tile">
+        <div class="gallery-carousel" data-autoplay="false">
+          <div class="gallery-viewport">
+            <div class="gallery-slide is-active">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/졸업식/3.jpg' | relative_url }}" alt="Graduation 2026 photo 3">
+            </div>
+            <div class="gallery-slide">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/졸업식/4.jpg' | relative_url }}" alt="Graduation 2026 photo 4">
+            </div>
+            <div class="gallery-slide">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/졸업식/5.jpg' | relative_url }}" alt="Graduation 2026 photo 5">
+            </div>
+
+            <button class="gallery-btn gallery-btn--prev" type="button" aria-label="Previous">‹</button>
+            <button class="gallery-btn gallery-btn--next" type="button" aria-label="Next">›</button>
+          </div>
+          <div class="gallery-dots" aria-label="carousel dots"></div>
+        </div>
+        <div class="gallery-caption">2026 Graduation</div>
+      </article>
+
       <!-- 2026 KCCV (1~2, PNG) -->
       <article class="gallery-tile">
         <div class="gallery-carousel" data-autoplay="false">
