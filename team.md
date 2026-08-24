@@ -436,7 +436,7 @@ permalink: /team/
 
       <article class="profile">
         <div class="profile-photo">
-          <img src="{{ '/assets/img/team/HangJun_Jo.png' | relative_url }}" alt="Hangjun Jo"
+          <img src="{{ '/assets/img/team/HangJun_Jo.jpg' | relative_url }}" alt="Hangjun Jo"
                onerror="this.style.display='none'; this.parentElement.classList.add('is-empty');">
         </div>
 
