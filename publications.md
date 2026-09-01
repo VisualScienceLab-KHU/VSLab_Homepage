@@ -107,7 +107,16 @@ permalink: /publications/
       </article>
 
       <article class="pub-item">
-        <div class="pub-item__title">Adverse Weather Removal via Dynamic Enhancement Diffusion with Weather-Adaptive Prompting</div>
+        <div class="pub-item__title">Adverse Weather Removal via Dynamic Enhancement Diffusion with Weather-Adaptive Prompting
+          <span class="pub-actions pub-actions--inline">
+              <a class="pub-linkbtn pub-linkbtn--paper"
+                href="https://ieeexplore.ieee.org/document/11661717"
+                target="_blank" rel="noopener">
+                <span class="pub-linkbtn__icon"><i class="fa-regular fa-file-pdf"></i></span>
+                <span>Paper</span>
+              </a>
+          </span>
+        </div>
         <div class="pub-item__authors">Youngmin Oh, Sungyoung Lee, MyeongAh Cho*, Jung Uk Kim*</div>
         <div class="pub-item__venue">IEEE Transactions on Image Processing, Jun. 2026 (<u>JCR Top 2.0%</u>)</div>
       </article>
