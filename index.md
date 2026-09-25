@@ -177,6 +177,27 @@ permalink: /
     <div class="news">
 
       <article class="news-item">
+        <div class="news-thumb" aria-hidden="true">NeurIPS</div>
+        <div class="news-body">
+          <div class="news-date">September 2026</div>
+          <div class="news-text">
+            <span class="news-highlight">Two papers</span> led by KunHo Heo, Junhee Lee were accepted to
+            <b><i>NeurIPS 2026</i></b>.
+          </div>
+        </div>
+      </article>
+
+      <article class="news-item">
+        <div class="news-thumb" aria-hidden="true">Award</div>
+        <div class="news-body">
+          <div class="news-date">September 2026</div>
+          <div class="news-text">
+            Seungjae Kim and SuYeon Kim have been awarded the NRF "Research Subsidies for Master’s Students" grant (Annual research budget: 12 million KRW).
+          </div>
+        </div>
+      </article>
+
+      <article class="news-item">
         <div class="news-thumb" aria-hidden="true">Award</div>
         <div class="news-body">
           <div class="news-date">July 2026</div>
