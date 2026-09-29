@@ -315,7 +315,7 @@ permalink: /team/
           </div>
 
           <div class="profile-role"></div>
-          <div class="profile-email">amuse_dh (at) naver.com</div>
+          <div class="profile-email">amuse_dh (at) khu.ac.kr</div>
 
           <div class="profile-research">
             <span class="profile-tag">3D Object Detection</span>
