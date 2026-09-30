@@ -28,6 +28,20 @@ permalink: /
         </div>
 
         <div class="hero-carousel__slide hero-carousel__slide--contain">
+          <img class="hero-carousel__img" src="{{ '/assets/img/main_clue.png' | relative_url }}" alt="Research highlight 8">
+          <div class="hero-carousel__shade" aria-hidden="true"></div>
+
+          <div class="hero-carousel__overlay">
+            <div class="hero-carousel__paperTitle">
+              CLUE-VAD: Structured Semantic Clues for Understanding Explainable Events in Video Anomaly Detection, ECCV 2026
+            </div>
+            <a class="hero-carousel__learnMore" href="https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7292.pdf" target="_blank" rel="noopener">
+              Learn more
+            </a>
+          </div>
+        </div>
+
+        <div class="hero-carousel__slide hero-carousel__slide--contain">
           <img class="hero-carousel__img" src="{{ '/assets/img/main_reset.png' | relative_url }}" alt="Research highlight 7">
           <div class="hero-carousel__shade" aria-hidden="true"></div>
 
