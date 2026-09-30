@@ -466,6 +466,23 @@ permalink: /team/
           <div class="profile-email">hangjun29yo (at) gmail.com</div>
         </div>
       </article>
+
+      <article class="profile">
+        <div class="profile-photo">
+          <img src="{{ '/assets/img/team/Sejin_Jo.jpg' | relative_url }}" alt="Sejin Jo"
+               onerror="this.style.display='none'; this.parentElement.classList.add('is-empty');">
+        </div>
+
+        <div class="profile-body">
+          <div class="profile-name-row">
+            <span class="profile-name">Sejin Jo</span>
+            <!-- 링크 없으면 아이콘 제거해도 됨 -->
+          </div>
+
+          <div class="profile-role"></div>
+          <div class="profile-email">tpwls5601 (at) naver.com</div>
+        </div>
+      </article>
     </div>
   </div>
 </section>
