@@ -160,6 +160,8 @@ permalink: /
           <button class="hero-carousel__dot" type="button" aria-label="Go to slide 5"></button>
           <button class="hero-carousel__dot" type="button" aria-label="Go to slide 6"></button>
           <button class="hero-carousel__dot" type="button" aria-label="Go to slide 7"></button>
+          <button class="hero-carousel__dot" type="button" aria-label="Go to slide 8"></button>
+          <button class="hero-carousel__dot" type="button" aria-label="Go to slide 9"></button>
         </div>
     </div>
   </div>
