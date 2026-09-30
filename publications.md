@@ -27,6 +27,36 @@ permalink: /publications/
     <div class="pub-list">
 
       <article class="pub-item">
+        <div class="pub-item__title">Less Supervision, Better Generalization: Weakly Supervised Fake Region Localization in Diffusion-Edited Images
+          <span class="pub-actions pub-actions--inline">
+              <a class="pub-linkbtn pub-linkbtn--paper"
+                href="https://arxiv.org/abs/2609.36882"
+                target="_blank" rel="noopener">
+                <span class="pub-linkbtn__icon"><i class="fa-regular fa-file-pdf"></i></span>
+                <span>Paper</span>
+              </a>
+          </span>
+        </div>
+        <div class="pub-item__authors">Junhee Lee, Donghyeon Jeon, Taeoh Kim, Beomyoung Kim, MyeongAh Cho</div>
+        <div class="pub-item__venue">The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026), Dec. 2026</div>
+      </article>
+
+      <article class="pub-item">
+        <div class="pub-item__title">Towards Generalizable 3D Anomaly Detection via Relational Inconsistency Modeling
+          <span class="pub-actions pub-actions--inline">
+              <a class="pub-linkbtn pub-linkbtn--paper"
+                href="https://arxiv.org/abs/2609.35059"
+                target="_blank" rel="noopener">
+                <span class="pub-linkbtn__icon"><i class="fa-regular fa-file-pdf"></i></span>
+                <span>Paper</span>
+              </a>
+          </span>
+        </div>
+        <div class="pub-item__authors">KunHo Heo*, SuYeon Kim*, Hayoung Lee, Chanse Oh, MyeongAh Cho</div>
+        <div class="pub-item__venue">The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026), Dec. 2026</div>
+      </article>
+
+      <article class="pub-item">
         <div class="pub-item__title">Align What Matters: Selective Source-Oriented Audio–Visual Alignment for Sound Source Localization</div>
         <div class="pub-item__authors">Wongyu Lee, YoungBin Kim, KunHo Heo, MyeongAh Cho</div>
         <div class="pub-item__venue">IEEE Transactions on Multimedia, Sep. 2026 (<u>JCR Top 2.0%</u>)</div>

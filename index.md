@@ -28,6 +28,20 @@ permalink: /
         </div>
 
         <div class="hero-carousel__slide hero-carousel__slide--contain">
+          <img class="hero-carousel__img" src="{{ '/assets/img/main_reset.png' | relative_url }}" alt="Research highlight 7">
+          <div class="hero-carousel__shade" aria-hidden="true"></div>
+
+          <div class="hero-carousel__overlay">
+            <div class="hero-carousel__paperTitle">
+              Rethinking Prototype-based Similarity Learning for Few-Shot Object Detection, ECCV 2026
+            </div>
+            <a class="hero-carousel__learnMore" href="https://visualsciencelab-khu.github.io/ReSet_project/" target="_blank" rel="noopener">
+              Learn more
+            </a>
+          </div>
+        </div>
+
+        <div class="hero-carousel__slide hero-carousel__slide--contain">
           <img class="hero-carousel__img" src="{{ '/assets/img/main_sdr.png' | relative_url }}" alt="Research highlight 2">
           <div class="hero-carousel__shade" aria-hidden="true"></div>
 
@@ -175,6 +189,17 @@ permalink: /
     </div>
 
     <div class="news">
+
+      <article class="news-item">
+        <div class="news-thumb" aria-hidden="true">Grant</div>
+        <div class="news-body">
+          <div class="news-date">September 2026</div>
+          <div class="news-text"> 
+            Our collaborative project on AI-driven autonomous robotic navigation in cerebral vessels has been awarded funding under the NRF Basic Research Laboratory program.
+            <a href="https://v.daum.net/v/9Ysx7gRfcD" target="_blank" rel="noopener noreferrer">Link</a>
+          </div>
+        </div>
+      </article>
 
       <article class="news-item">
         <div class="news-thumb" aria-hidden="true">NeurIPS</div>
