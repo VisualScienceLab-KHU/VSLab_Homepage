@@ -28,6 +28,20 @@ permalink: /
         </div>
 
         <div class="hero-carousel__slide hero-carousel__slide--contain">
+          <img class="hero-carousel__img" src="{{ '/assets/img/main_grim.png' | relative_url }}" alt="Research highlight 9">
+          <div class="hero-carousel__shade" aria-hidden="true"></div>
+
+          <div class="hero-carousel__overlay">
+            <div class="hero-carousel__paperTitle">
+              Towards Generalizable 3D Anomaly Detection via Relational Inconsistency Modeling, NeurIPS 2026
+            </div>
+            <a class="hero-carousel__learnMore" href="https://visualsciencelab-khu.github.io/GRIM_project/" target="_blank" rel="noopener">
+              Learn more
+            </a>
+          </div>
+        </div>
+
+        <div class="hero-carousel__slide hero-carousel__slide--contain">
           <img class="hero-carousel__img" src="{{ '/assets/img/main_clue.png' | relative_url }}" alt="Research highlight 8">
           <div class="hero-carousel__shade" aria-hidden="true"></div>
 
@@ -162,6 +176,7 @@ permalink: /
           <button class="hero-carousel__dot" type="button" aria-label="Go to slide 7"></button>
           <button class="hero-carousel__dot" type="button" aria-label="Go to slide 8"></button>
           <button class="hero-carousel__dot" type="button" aria-label="Go to slide 9"></button>
+          <button class="hero-carousel__dot" type="button" aria-label="Go to slide 10"></button>
         </div>
     </div>
   </div>

@@ -50,6 +50,20 @@ permalink: /publications/
                 <span class="pub-linkbtn__icon"><i class="fa-regular fa-file-pdf"></i></span>
                 <span>Paper</span>
               </a>
+              <span class="pub-actions__sep">·</span>
+              <a class="pub-linkbtn pub-linkbtn--project"
+                href="https://visualsciencelab-khu.github.io/GRIM_project/"
+                target="_blank" rel="noopener">
+                <span class="pub-linkbtn__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></span>
+                <span>Project</span>
+              </a>
+              <span class="pub-actions__sep">·</span>
+              <a class="pub-linkbtn pub-linkbtn--code"
+                href="https://github.com/VisualScienceLab-KHU/GRIM"
+                target="_blank" rel="noopener">
+                <span class="pub-linkbtn__icon"><i class="fa-brands fa-github"></i></span>
+                <span>Code</span>
+              </a>
           </span>
         </div>
         <div class="pub-item__authors">KunHo Heo*, SuYeon Kim*, Hayoung Lee, Chanse Oh, MyeongAh Cho</div>
