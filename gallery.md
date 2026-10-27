@@ -15,6 +15,34 @@ permalink: /gallery/
 
     <div class="gallery-grid">
 
+      <!-- ECCV 2026 (1~5, JPG) -->
+      <article class="gallery-tile">
+        <div class="gallery-carousel" data-autoplay="false">
+          <div class="gallery-viewport">
+            <div class="gallery-slide is-active">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/ECCV/1.jpg' | relative_url }}" alt="ECCV 2026 photo 1">
+            </div>
+            <div class="gallery-slide">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/ECCV/2.jpg' | relative_url }}" alt="ECCV 2026 photo 2">
+            </div>
+            <div class="gallery-slide is-active">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/ECCV/3.jpg' | relative_url }}" alt="ECCV 2026 photo 3">
+            </div>
+            <div class="gallery-slide">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/ECCV/4.jpg' | relative_url }}" alt="ECCV 2026 photo 4">
+            </div>
+            <div class="gallery-slide">
+              <img class="gallery-img" src="{{ '/assets/img/gallery/2026/ECCV/5.jpg' | relative_url }}" alt="ECCV 2026 photo 5">
+            </div>
+
+            <button class="gallery-btn gallery-btn--prev" type="button" aria-label="Previous">‹</button>
+            <button class="gallery-btn gallery-btn--next" type="button" aria-label="Next">›</button>
+          </div>
+          <div class="gallery-dots" aria-label="carousel dots"></div>
+        </div>
+        <div class="gallery-caption">ECCV 2026</div>
+      </article>
+
       <!-- 2026 Graduation (1~3, JPG) -->
       <article class="gallery-tile">
         <div class="gallery-carousel" data-autoplay="false">
