@@ -28,6 +28,20 @@ permalink: /
         </div>
 
         <div class="hero-carousel__slide hero-carousel__slide--contain">
+          <img class="hero-carousel__img" src="{{ '/assets/img/main_LSBG.png' | relative_url }}" alt="Research highlight 10">
+          <div class="hero-carousel__shade" aria-hidden="true"></div>
+
+          <div class="hero-carousel__overlay">
+            <div class="hero-carousel__paperTitle">
+              Less Supervision, Better Generalization: Weakly Supervised Fake Region Localization in Diffusion-Edited Images, NeurIPS 2026
+            </div>
+            <a class="hero-carousel__learnMore" href="https://visualsciencelab-khu.github.io/LSBG_project/" target="_blank" rel="noopener">
+              Learn more
+            </a>
+          </div>
+        </div>
+
+        <div class="hero-carousel__slide hero-carousel__slide--contain">
           <img class="hero-carousel__img" src="{{ '/assets/img/main_grim.png' | relative_url }}" alt="Research highlight 9">
           <div class="hero-carousel__shade" aria-hidden="true"></div>
 
