@@ -85,7 +85,16 @@ permalink: /publications/
       </article>
 
       <article class="pub-item">
-        <div class="pub-item__title">Align What Matters: Selective Source-Oriented Audio–Visual Alignment for Sound Source Localization</div>
+        <div class="pub-item__title">Align What Matters: Selective Source-Oriented Audio–Visual Alignment for Sound Source Localization
+          <span class="pub-actions pub-actions--inline">
+              <a class="pub-linkbtn pub-linkbtn--paper"
+                href="https://ieeexplore.ieee.org/document/11783166"
+                target="_blank" rel="noopener">
+                <span class="pub-linkbtn__icon"><i class="fa-regular fa-file-pdf"></i></span>
+                <span>Paper</span>
+              </a>
+          </span>
+        </div>
         <div class="pub-item__authors">Wongyu Lee, YoungBin Kim, KunHo Heo, MyeongAh Cho</div>
         <div class="pub-item__venue">IEEE Transactions on Multimedia, Sep. 2026 (<u>JCR Top 2.0%</u>)</div>
       </article>
