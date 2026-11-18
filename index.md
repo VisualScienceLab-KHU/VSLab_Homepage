@@ -191,6 +191,7 @@ permalink: /
           <button class="hero-carousel__dot" type="button" aria-label="Go to slide 8"></button>
           <button class="hero-carousel__dot" type="button" aria-label="Go to slide 9"></button>
           <button class="hero-carousel__dot" type="button" aria-label="Go to slide 10"></button>
+          <button class="hero-carousel__dot" type="button" aria-label="Go to slide 11"></button>
         </div>
     </div>
   </div>
