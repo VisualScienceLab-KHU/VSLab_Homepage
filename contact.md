@@ -21,7 +21,7 @@ permalink: /contact/
       </p>
 
       <p class="muted contact-lead">
-        For the semester 2027-Spring, the openings are for three PhD/MS students and several undergraduate interns.
+        For the semester 2027-Fall, the openings are for three PhD/MS students and several undergraduate interns.
       </p>
 
       <p class="muted contact-lead">
