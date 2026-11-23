@@ -239,7 +239,7 @@ permalink: /
       <article class="news-item">
         <div class="news-thumb" aria-hidden="true">News</div>
         <div class="news-body">
-          <div class="news-date">September 2026</div>
+          <div class="news-date">November 2026</div>
           <div class="news-text"> 
             Seungjae Kim and Suyeon Kim were featured in Kyung Hee University News for their outstanding research achievements and NRF research grants.
             <a href="https://news.khu.ac.kr/news_kor/user/webzine/gType.do?wcId=4299" target="_blank" rel="noopener noreferrer">Link</a>
